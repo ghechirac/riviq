@@ -1,0 +1,943 @@
+﻿Slug,Player Name,Position,Club,Current League,Age,L10,L40,Play % L40,Games Played L40,Game Started L40,Min Play/90 L40,AA L40,Decisive L40,Score 100,Score 75-99,Score 60-74,Score 50-59,Score 35-49,Score 20-34,Score 0-19,DNP L40,Avg Limited IS (€),Avg Rare IS (€)
+cherrion-valerius,Cherrion Valerius,Defender,Minnesota United,MLS,21,46.0,46.0,55.0,22,17,48.5,6.63,38.86,1,1,3,7,9,8,1,10,0.39,6.26
+lionel-andres-messi-cuccittini,Lionel Messi,Forward,Inter Miami CF,MLS,39,80.0,80.0,87.5,35,32,73.5,21.81,59.71,4,19,9,1,2,1,0,4,47.82,175.55
+carles-gil-de-pareja-vicent,Carles Gil,Midfielder,New England Revolution,MLS,33,72.0,71.0,72.5,29,29,89.6,21.59,49.83,1,16,9,6,7,1,0,0,22.04,64.59
+antoine-griezmann,Antoine Griezmann,Forward,Orlando City SC,MLS,35,71.0,59.0,87.5,35,27,60.0,11.55,47.86,0,7,9,4,14,1,0,5,17.34,129.03
+cavan-sullivan,Cavan Sullivan,Midfielder,Philadelphia Union,MLS,16,70.0,54.0,82.5,33,22,48.1,8.67,45.3,2,4,7,1,11,7,1,7,13.14,38.72
+timo-werner,Timo Werner,Forward,San Jose Earthquakes,MLS,30,68.0,61.0,40.0,16,9,23.5,11.38,49.38,0,5,3,3,3,2,0,24,4.0,14.04
+justin-che,Justin Che,Defender,New York Red Bulls,MLS,22,58.0,57.0,42.5,17,15,38.9,18.97,38.24,0,5,2,3,5,1,1,23,0.95,3.69
+anders-dreyer,Anders Dreyer,Midfielder,San Diego FC,MLS,28,65.0,67.0,92.5,37,34,77.0,18.19,49.32,3,11,7,5,10,0,0,4,10.34,59.44
+yevgen-cheberko,Yevhen Cheberko,Defender,Los Angeles FC,MLS,28,59.0,49.0,55.0,22,15,38.7,13.6,35.23,0,2,4,2,14,3,1,14,4.31,13.96
+jeisson-andres-palacios-murillo,Jeisson Palacios,Defender,Nashville SC,MLS,32,63.0,62.0,72.5,29,28,62.4,24.26,38.62,2,4,11,4,7,0,1,11,11.8,41.69
+guilherme-augusto-vieira-dos-santos,Guilherme,Forward,Houston Dynamo FC,MLS,31,73.0,67.0,97.5,39,33,74.3,19.85,47.95,5,8,9,5,11,1,0,1,35.67,118.16
+nicolas-fernandez-mercau,Nicolás Fernández-Mercau,Defender,New York City FC,MLS,26,64.0,67.0,92.5,37,36,85.5,16.04,50.54,1,10,12,10,4,2,0,1,19.77,63.49
+ethan-horvath,Ethan Horvath,Goalkeeper,New York Red Bulls,MLS,31,55.0,47.0,80.0,32,32,72.0,8.55,38.59,0,4,3,4,11,10,0,8,2.73,8.69
+agustin-resch,Agustín Resch,Defender,Houston Dynamo FC,MLS,24,65.0,54.0,57.5,23,18,64.4,16.53,37.39,1,2,4,8,4,4,0,3,3.65,17.43
+julian-andres-bazan-medina,Julián Bazán,Defender,New York Red Bulls,MLS,20,62.0,50.0,47.5,19,17,38.9,14.16,36.32,0,1,3,5,6,4,0,21,4.5,8.68
+kelvin-yeboah,Kelvin Yeboah,Forward,Minnesota United,MLS,26,56.0,48.0,82.5,33,26,61.0,2.62,45.76,0,3,10,0,12,10,1,4,2.37,8.18
+petar-musa,Petar Musa,Forward,FC Dallas,MLS,28,58.0,56.0,85.0,34,28,59.1,4.54,51.76,1,2,17,0,9,4,0,7,3.16,20.54
+bruno-damiani,Bruno Damiani,Forward,Philadelphia Union,MLS,24,59.0,49.0,92.5,37,31,68.6,5.41,43.78,0,4,7,2,19,5,0,3,4.54,5.97
+ivan-dario-angulo-cortes,Iván Angulo,Midfielder,Orlando City SC,MLS,27,59.0,54.0,82.5,33,32,82.6,11.52,42.12,0,3,7,11,15,2,0,2,2.37,5.15
+thomas-muller,Thomas Müller,Forward,Vancouver Whitecaps FC,MLS,37,65.0,61.0,87.5,35,28,64.9,14.45,46.57,0,13,2,1,18,0,0,6,7.75,34.68
+mohamed-farsi,Mohamed Farsi,Defender,Columbus Crew,MLS,26,54.0,51.0,45.0,18,13,31.8,10.23,41.11,0,2,4,1,9,2,0,22,0.96,2.87
+mohamed-elias-achouri,Elias Achouri,Midfielder,San Diego FC,MLS,27,47.0,49.0,72.5,29,18,40.5,6.71,41.85,0,3,4,1,17,2,0,13,1.4,17.08
+maren-haile-selassie,Maren Haile-Selassie,Midfielder,Chicago Fire FC,MLS,27,61.0,51.0,90.0,36,23,62.2,6.94,44.44,0,7,7,2,11,12,0,1,1.6,8.84
+justin-ellis,Justin Ellis,Forward,Orlando City SC,MLS,19,60.0,58.0,55.0,22,17,42.7,10.86,47.5,0,2,9,3,7,1,0,18,4.14,19.26
+beau-leroux,Beau Leroux,Midfielder,San Jose Earthquakes,MLS,23,55.0,56.0,70.0,28,24,70.4,10.97,44.82,0,4,11,5,14,4,0,2,3.4,8.47
+carlos-henrique-casimiro,Casemiro,Midfielder,Inter Miami CF,MLS,34,55.0,55.0,95.0,38,38,79.0,14.78,40.53,1,5,6,10,11,3,1,3,4.47,14.47
+neil-pierre,Neil Pierre,Defender,Philadelphia Union,MLS,18,58.0,61.0,32.5,13,11,51.6,20.94,39.62,0,4,4,2,1,2,1,26,1.18,6.83
+ryan-gauld,Ryan Gauld,Midfielder,Vancouver Whitecaps FC,MLS,30,60.0,52.0,52.5,21,8,25.0,11.58,40.24,0,2,3,2,11,2,0,20,8.5,33.5
+hirving-rodrigo-lozano-bahena,Hirving Lozano,Forward,LA Galaxy,MLS,31,55.0,56.0,35.0,14,8,20.9,10.11,45.71,0,3,4,1,5,2,0,25,2.84,25.44
+rodrigo-javier-de-paul,Rodrigo De Paul,Midfielder,Inter Miami CF,MLS,32,61.0,61.0,85.0,34,33,67.8,15.9,44.85,0,10,8,7,8,1,0,6,6.85,38.31
+morgan-whittaker,Morgan Whittaker,Forward,Colorado Rapids,MLS,25,56.0,56.0,80.0,32,29,59.6,9.12,46.72,0,10,3,1,14,4,0,8,5.69,22.0
+marco-reus,Marco Reus,Midfielder,LA Galaxy,MLS,37,57.0,57.0,75.0,30,22,54.6,9.89,46.83,0,6,8,2,11,3,0,10,4.13,15.63
+allan-saint-maximin,Allan Saint-Maximin,Forward,Charlotte FC,MLS,29,57.0,55.0,72.5,29,14,37.0,11.21,43.97,0,5,5,5,13,1,0,11,5.92,33.05
+adrian-andres-cubas,Andrés Cubas,Midfielder,Vancouver Whitecaps FC,MLS,30,66.0,61.0,82.5,33,31,67.3,24.3,36.67,1,3,14,7,5,3,0,7,4.06,21.21
+paxten-aaronson,Paxten Aaronson,Midfielder,Colorado Rapids,MLS,23,59.0,58.0,72.5,29,27,83.1,11.47,46.03,0,6,7,6,11,5,0,5,3.28,10.67
+djordje-mihailovic,Djordje Mihailovic,Midfielder,Toronto FC,MLS,27,56.0,58.0,40.0,16,13,40.5,9.36,48.75,0,5,6,3,6,4,0,16,0.93,11.84
+conrad-wallem,Conrad Wallem,Midfielder,St. Louis City SC,MLS,26,54.0,44.0,62.5,25,25,73.3,8.23,36.0,0,4,7,3,15,4,2,5,1.34,6.39
+denis-bouanga,Denis Bouanga,Forward,Los Angeles FC,MLS,31,59.0,57.0,95.0,38,37,80.3,8.68,48.82,3,7,7,2,12,7,0,2,8.75,57.54
+reed-baker-whiting,Reed Baker-Whiting,Defender,Nashville SC,MLS,21,58.0,45.0,75.0,30,19,42.7,7.77,37.0,0,3,1,4,14,7,1,10,4.56,8.37
+daniel-salloi,Dániel Sallói,Forward,Toronto FC,MLS,30,59.0,54.0,72.5,29,26,81.5,8.74,45.69,0,1,13,3,21,1,0,1,2.3,10.12
+joaquin-nicolas-pereyra,Joaquín Pereyra,Midfielder,Minnesota United,MLS,27,66.0,61.0,90.0,36,34,86.3,13.84,47.5,2,9,10,5,9,5,0,0,11.01,55.68
+rob-holding,Rob Holding,Defender,Colorado Rapids,MLS,31,59.0,54.0,65.0,26,25,71.4,18.89,34.62,0,5,7,5,9,2,2,10,2.64,13.65
+carlo-holse,Carlo Holse,Forward,St. Louis City SC,MLS,27,52.0,54.0,90.0,36,30,69.5,10.73,43.61,0,6,8,4,13,5,0,4,4.65,21.85
+albert-rusnak,Albert Rusnák,Midfielder,Seattle Sounders FC,MLS,32,56.0,55.0,87.5,35,30,72.8,9.13,45.86,0,7,8,5,13,4,0,3,5.13,16.35
+andre-blake,Andre Blake,Goalkeeper,Philadelphia Union,MLS,35,53.0,50.0,80.0,32,32,72.0,5.45,44.22,0,2,9,2,10,8,0,9,6.88,27.22
+yannick-bright,Yannick Bright,Midfielder,Inter Miami CF,MLS,25,61.0,53.0,87.5,35,27,60.4,16.6,36.57,0,4,8,9,9,5,0,5,3.48,12.05
+robert-lewandowski,Robert Lewandowski,Forward,Chicago Fire FC,MLS,38,54.0,51.0,95.0,38,29,63.1,4.44,46.18,0,4,11,0,16,7,0,2,4.29,61.44
+maxwell-woledzi,Maxwell Woledzi,Defender,Nashville SC,MLS,25,62.0,60.0,87.5,35,34,76.8,21.49,38.86,1,4,12,9,8,1,0,5,11.48,49.63
+sam-surridge,Samuel Surridge,Forward,Nashville SC,MLS,28,57.0,52.0,75.0,30,23,55.4,4.3,47.83,0,6,7,0,13,4,0,10,5.53,11.05
+joaquin-valiente-cioli,Joaquín Valiente,Midfielder,FC Dallas,MLS,25,58.0,53.0,95.0,38,32,70.4,9.15,43.42,0,7,5,3,18,5,0,2,2.42,8.45
+hugo-lloris,Hugo Lloris,Goalkeeper,Los Angeles FC,MLS,39,55.0,55.0,85.0,34,34,77.2,9.16,45.44,0,7,10,1,10,5,1,6,5.59,33.94
+nkosi-burgess,Nkosi Tafari,Defender,Los Angeles FC,MLS,29,48.0,50.0,87.5,35,31,70.5,11.46,38.71,0,4,9,3,15,3,1,5,1.44,7.09
+sean-zawadzki,Sean Zawadzki,Midfielder,Columbus Crew,MLS,26,53.0,52.0,87.5,35,34,85.0,14.89,37.14,0,3,4,8,21,0,0,4,1.28,6.68
+andy-aryel-najar-rodriguez,Andy Najar,Defender,Nashville SC,MLS,33,58.0,52.0,90.0,36,27,61.2,11.6,40.56,0,3,12,4,12,4,1,4,5.01,10.95
+shaquell-moore,Shaq Moore,Defender,FC Dallas,MLS,29,52.0,48.0,85.0,34,32,83.7,9.0,38.82,0,2,12,3,12,8,1,2,1.25,2.21
+osaze-urhoghide,Osaze Urhoghide,Defender,FC Dallas,MLS,26,56.0,53.0,75.0,30,29,75.2,15.73,37.17,1,6,6,3,8,6,3,7,1.01,5.14
+facundo-daniel-torres-perez,Facundo Torres,Forward,Austin FC,MLS,26,56.0,57.0,85.0,34,28,61.7,12.77,44.56,0,6,9,5,16,0,0,4,1.98,9.93
+andre-luiz-inacio-da-silva,André Luiz,Forward,Sporting Kansas City ,MLS,24,51.0,55.0,50.0,20,15,58.2,8.43,47.0,0,5,9,3,13,6,0,4,3.43,30.3
+lucas-felipe-calegari,Calegari,Defender,LA Galaxy,MLS,24,58.0,52.0,52.5,21,18,44.7,13.2,38.81,0,2,6,4,9,4,0,15,1.42,16.82
+nathan-harriel,Nathan Harriel,Defender,Philadelphia Union,MLS,25,57.0,53.0,92.5,37,37,83.0,15.45,37.7,1,2,11,4,13,6,0,3,5.7,14.38
+heung-min-son,Heung-min Son,Forward,Los Angeles FC,MLS,34,54.0,54.0,95.0,38,35,73.5,10.29,43.95,1,7,8,1,19,2,0,2,5.61,33.76
+caden-clark,Caden Clark,Midfielder,Seattle Sounders FC,MLS,23,39.0,39.0,27.5,11,1,7.0,1.87,37.27,0,1,3,1,10,5,0,20,0.46,1.17
+kenny-nielsen,Kenneth Nielsen,Defender,Los Angeles FC,MLS,24,41.0,41.0,20.0,8,4,8.9,8.49,32.5,0,0,1,1,3,3,0,32,1.11,3.21
+danley-jean-jacques,Danley Jean Jacques,Midfielder,Philadelphia Union,MLS,26,56.0,50.0,92.5,37,34,75.2,9.93,39.73,0,1,9,5,15,5,0,5,1.76,6.59
+kristoffer-velde,Kristoffer Velde,Forward,Portland Timbers,MLS,27,63.0,62.0,90.0,36,35,82.2,14.81,46.81,1,7,11,7,12,1,0,1,9.04,49.35
+marky-delgado,Mark Delgado,Midfielder,Los Angeles FC,MLS,31,57.0,56.0,92.5,37,31,71.6,17.07,38.65,0,6,5,10,14,2,0,3,1.26,7.62
+pep-biel-mas-jaume,Pep Biel,Midfielder,Charlotte FC,MLS,30,59.0,61.0,70.0,28,28,69.6,9.84,50.36,0,6,10,3,6,5,0,10,6.43,27.77
+james-marcinkowski,JT Marcinkowski,Goalkeeper,LA Galaxy,MLS,29,58.0,50.0,70.0,28,28,67.5,9.86,40.54,0,4,4,3,14,4,0,11,3.67,17.19
+francis-westfield,Francis Westfield,Defender,Philadelphia Union,MLS,20,57.0,57.0,77.5,31,25,59.8,13.56,43.06,1,4,11,3,7,5,0,9,5.37,16.44
+theo-corbeanu,Theodor Corbeanu,Forward,Toronto FC,MLS,24,57.0,50.0,42.5,17,11,32.7,6.3,43.82,0,3,5,3,14,2,0,13,1.36,3.47
+tristan-blackmon,Tristan Blackmon,Defender,Vancouver Whitecaps FC,MLS,30,60.0,53.0,80.0,32,30,67.5,17.65,35.47,0,4,6,7,10,4,1,8,4.64,20.38
+vincent-janssen,Vincent Janssen,Forward,Portland Timbers,MLS,32,42.0,49.0,77.5,31,25,56.9,5.11,44.68,2,3,5,0,15,5,1,9,2.18,16.31
+mamadou-fofana,Mamadou Fofana,Defender,New England Revolution,MLS,28,55.0,58.0,72.5,29,29,75.3,18.25,40.52,1,5,5,6,11,2,0,10,3.28,17.14
+luis-alberto-suarez-diaz,Luis Suárez,Forward,Inter Miami CF,MLS,39,61.0,56.0,75.0,30,23,51.6,7.83,48.0,0,4,10,3,11,2,0,10,3.84,7.41
+brais-mendez-portela,Brais Méndez,Midfielder,Columbus Crew,MLS,29,54.0,51.0,75.0,30,21,45.9,6.9,43.5,0,1,10,4,8,7,0,10,2.69,24.98
+kaick-da-silva-ferreira,Kaick,Midfielder,FC Dallas,MLS,20,57.0,49.0,87.5,35,29,72.7,9.95,39.29,0,3,5,5,21,5,0,1,3.1,5.31
+telasco-jose-segovia-perez,Telasco Segovia,Midfielder,Inter Miami CF,MLS,23,54.0,52.0,90.0,36,27,62.6,8.59,43.47,0,4,9,4,14,5,0,4,1.51,8.48
+yohei-takaoka,Yohei Takaoka,Goalkeeper,Vancouver Whitecaps FC,MLS,30,60.0,53.0,90.0,36,36,81.1,7.07,45.56,0,6,10,2,10,6,1,5,15.08,47.54
+ariel-lassiter,Ariel Lassiter,Forward,Portland Timbers,MLS,31,57.0,53.0,70.0,28,14,32.5,7.91,44.64,0,5,5,3,16,2,0,9,1.74,6.99
+dylan-nealis,Dylan Nealis,Defender,New York Red Bulls,MLS,28,48.0,45.0,60.0,24,24,69.5,7.93,37.5,1,2,4,4,9,14,1,5,0.46,1.2
+brian-schwake,Brian Schwake,Goalkeeper,Nashville SC,MLS,25,56.0,57.0,87.5,35,35,78.8,9.25,48.14,0,8,12,2,7,6,0,5,19.78,92.7
+jose-artur-de-lima-junior,Artur,Midfielder,Houston Dynamo FC,MLS,30,61.0,52.0,55.0,22,19,58.9,14.68,37.27,0,2,6,2,13,7,1,9,3.36,11.71
+agustin-ojeda,Axel Ojeda,Forward,New York City FC,MLS,22,55.0,51.0,92.5,37,32,70.2,7.42,43.51,0,3,9,4,21,2,0,1,3.2,7.08
+alexandru-irinel-matan,Alexandru Matan,Midfielder,St. Louis City SC,MLS,27,54.0,54.0,22.5,9,5,44.0,9.58,44.44,0,4,6,3,19,4,0,4,1.99,6.2
+brian-white,Brian White,Forward,Vancouver Whitecaps FC,MLS,30,50.0,50.0,80.0,32,29,61.6,1.58,48.44,0,5,9,0,7,11,0,8,4.15,13.84
+dor-david-turgeman,Dor Turgeman,Forward,New England Revolution,MLS,22,53.0,53.0,80.0,32,29,76.2,4.47,47.81,0,5,9,0,13,7,0,6,1.98,6.54
+daniel-munie,Daniel Munie,Defender,San Jose Earthquakes,MLS,26,48.0,51.0,67.5,27,27,82.2,10.7,40.0,0,3,9,6,11,6,0,5,1.33,6.24
+philip-zinckernagel,Philip Zinckernagel,Forward,Chicago Fire FC,MLS,31,55.0,61.0,85.0,34,32,75.1,13.84,46.76,2,11,6,3,12,3,0,3,4.24,35.57
+marcus-caldeira,Marcus Caldeira,Forward,Minnesota United,MLS,21,54.0,54.0,25.0,10,6,16.3,2.18,52.0,0,2,4,0,2,2,0,19,1.51,6.64
+edier-ocampo-vidal,Édier Ocampo,Defender,Vancouver Whitecaps FC,MLS,22,61.0,54.0,95.0,38,35,77.6,16.45,37.37,1,6,6,5,14,4,1,3,5.39,17.51
+stuart-russell-hawkins,Stuart Hawkins,Defender,Seattle Sounders FC,MLS,20,50.0,47.0,32.5,13,10,24.1,7.84,38.85,0,1,2,2,4,4,0,27,3.36,4.17
+niko-tsakiris,Niko Tsakiris,Midfielder,San Jose Earthquakes,MLS,21,53.0,58.0,50.0,20,18,53.6,10.42,47.75,1,2,7,0,11,3,0,16,2.76,15.23
+tim-parker,Tim Parker,Defender,New York Red Bulls,MLS,33,41.0,40.0,32.5,13,8,27.1,4.95,35.0,0,0,4,3,8,5,0,20,0.39,0.96
+noel-caliskan,Noel Caliskan,Midfielder,Real Salt Lake,MLS,26,58.0,53.0,85.0,34,30,80.4,14.8,38.24,0,5,7,8,17,3,0,0,2.21,4.69
+nico-cavallo,Nico Cavallo,Defender,New York City FC,MLS,24,49.0,49.0,45.0,18,16,36.2,12.4,36.39,0,1,3,5,4,5,0,22,1.19,3.78
+anthony-markanich,Anthony Markanich,Defender,Minnesota United,MLS,26,56.0,54.0,87.5,35,33,78.7,8.32,44.43,1,3,13,5,10,6,1,1,1.02,5.6
+reid-roberts,Reid Roberts,Defender,San Jose Earthquakes,MLS,22,54.0,54.0,62.5,25,25,76.0,15.52,38.2,0,3,5,7,9,6,1,9,1.32,3.02
+santiago-mariano-rodriguez-molina,Santiago Rodríguez,Midfielder,Columbus Crew,MLS,26,51.0,46.0,60.0,24,13,27.7,7.33,38.54,0,2,1,5,12,4,0,16,3.14,9.82
+lucas-bartlett,Lucas Bartlett,Defender,DC United,MLS,29,53.0,49.0,62.5,25,25,79.6,6.66,41.6,0,3,6,4,13,8,2,4,1.77,3.52
+ryan-hollingshead,Ryan Hollingshead,Defender,Los Angeles FC,MLS,35,51.0,48.0,82.5,33,22,52.0,10.11,36.67,0,1,9,6,11,5,1,7,1.2,5.82
+anass-zaroury,Anass Zaroury,Forward,Columbus Crew,MLS,25,46.0,51.0,37.5,15,12,45.9,11.14,40.0,0,4,5,4,12,4,1,10,2.17,26.47
+nicholas-defreitas-hansen,Nicholas Hansen,Goalkeeper,Colorado Rapids,MLS,25,61.0,59.0,37.5,15,15,46.5,11.73,46.67,0,3,6,2,5,0,0,24,5.49,27.19
+david-romney,Dave Romney,Defender,San Jose Earthquakes,MLS,33,41.0,40.0,45.0,18,10,33.6,5.21,35.28,0,0,4,2,14,8,1,11,1.01,1.16
+dejan-joveljic,Dejan Joveljić,Forward,Seattle Sounders FC,MLS,27,51.0,50.0,72.5,29,29,79.7,4.37,45.17,0,3,13,1,14,7,0,2,3.35,9.62
+joao-gabriel-martins-peglow,Peglow,Forward,DC United,MLS,24,54.0,50.0,62.5,25,24,73.0,10.3,39.4,0,3,4,4,22,2,0,5,0.63,2.09
+cristian-omar-espinoza,Cristian Espinoza,Forward,Nashville SC,MLS,31,64.0,61.0,82.5,33,28,61.9,12.94,47.58,0,7,11,2,13,0,0,7,7.02,37.67
+mathieu-choiniere,Mathieu Choinière,Midfielder,Los Angeles FC,MLS,27,52.0,53.0,85.0,34,29,61.5,13.97,39.26,0,4,6,6,18,2,0,4,1.74,3.56
+finn-surman,Finn Surman,Defender,Portland Timbers,MLS,23,58.0,53.0,100.0,40,40,88.1,14.64,38.63,0,6,8,6,15,2,2,1,1.68,10.58
+lukas-ahlefeld-engel,Lukas Engel,Defender,Real Salt Lake,MLS,27,58.0,52.0,55.0,22,21,45.0,12.72,39.55,0,3,4,2,10,4,0,17,0.64,4.19
+mikkel-desler,Mikkel Desler,Defender,Austin FC,MLS,31,50.0,48.0,55.0,22,16,38.4,11.15,36.14,0,0,7,2,11,5,0,15,1.2,1.71
+jonathan-bond,Jonathan Bond,Goalkeeper,Houston Dynamo FC,MLS,33,61.0,53.0,72.5,29,29,88.5,7.2,45.34,0,7,6,4,13,7,2,1,11.46,52.1
+frederick-henry-kessler,Henry Kessler,Defender,Charlotte FC,MLS,28,55.0,55.0,32.5,13,13,36.6,17.09,37.69,0,0,7,2,6,2,1,22,1.9,5.81
+wyatt-meyer,Wyatt Meyer,Defender,Sporting Kansas City ,MLS,25,51.0,45.0,47.5,19,16,47.4,7.55,37.11,0,1,1,3,10,4,1,20,1.04,1.0
+evander-da-silva-ferreira,Evander,Midfielder,FC Cincinnati,MLS,28,68.0,64.0,90.0,36,34,75.1,13.8,51.39,3,11,9,4,7,2,1,3,25.64,110.08
+andrew-thomas-1998-09-01,Andrew Thomas,Goalkeeper,Seattle Sounders FC,MLS,28,47.0,51.0,62.5,25,24,56.9,10.4,40.2,0,4,4,2,10,6,0,14,5.57,20.85
+jackson-yueill,Jackson Yueill,Midfielder,New England Revolution,MLS,29,45.0,43.0,42.5,17,5,17.8,4.6,37.94,0,0,3,0,14,4,0,19,0.7,3.53
+peyton-james-miller,Peyton Miller,Defender,New England Revolution,MLS,18,58.0,49.0,60.0,24,18,58.4,3.15,45.42,0,4,8,1,11,7,3,6,2.9,8.09
+brooklyn-raines,Brooklyn Raines,Midfielder,New England Revolution,MLS,21,56.0,47.0,62.5,25,25,76.1,13.2,33.6,0,2,4,8,11,6,2,7,1.93,4.62
+miguel-angel-almiron-rejala,Miguel Almirón,Forward,Atlanta United,MLS,32,65.0,58.0,70.0,28,27,66.1,15.87,42.14,0,7,6,4,13,1,0,9,3.36,32.91
+kristijan-kahlina,Kristijan Kahlina,Goalkeeper,Charlotte FC,MLS,34,52.0,50.0,80.0,32,32,82.3,10.83,39.38,0,8,6,3,10,9,1,3,3.35,27.86
+oliver-larraz,Oliver Larraz,Midfielder,Vancouver Whitecaps FC,MLS,25,62.0,50.0,72.5,29,16,41.1,11.44,38.62,0,5,3,6,15,4,1,6,4.84,20.68
+ethan-david-kohler,Ethan Kohler,Defender,New England Revolution,MLS,21,57.0,54.0,55.0,22,21,72.6,16.87,37.27,0,0,10,3,7,2,0,4,2.41,9.32
+oleksandr-svatok,Oleksandr Svatok,Defender,Austin FC,MLS,31,48.0,45.0,80.0,32,28,60.8,9.18,35.31,0,0,5,9,7,11,0,8,0.46,2.53
+daniel-de-sousa-brito,Daniel,Goalkeeper,FC Dallas,MLS,32,41.0,51.0,52.5,21,20,56.1,7.47,43.33,0,2,5,0,12,9,1,11,2.11,20.57
+samuel-piette,Samuel Piette,Midfielder,CF Montreal,MLS,31,50.0,46.0,45.0,18,12,32.6,11.18,35.0,0,0,2,4,14,4,0,16,0.54,1.04
+rafael-navarro-leal,Rafael Navarro,Forward,St. Louis City SC,MLS,26,54.0,54.0,72.5,29,28,87.4,6.85,46.9,1,8,9,4,13,5,0,0,2.57,17.58
+bryan-josias-ramirez-leon,Bryan Ramírez,Defender,FC Cincinnati,MLS,26,57.0,53.0,90.0,36,28,63.7,13.56,39.17,0,3,6,10,16,2,0,3,0.88,1.63
+kimito-nono,Kimito Nono,Defender,DC United,MLS,24,51.0,54.0,85.0,34,32,80.1,15.58,38.68,0,7,9,4,12,6,0,2,1.11,6.33
+loic-williams-ntambue-kayumba-girones,Loïc,Defender,Colorado Rapids,MLS,24,54.0,51.0,92.5,37,37,83.2,14.83,35.68,0,3,7,9,11,7,0,3,3.7,12.28
+david-pereira-da-costa,David Pereira da Costa,Midfielder,Portland Timbers,MLS,25,60.0,52.0,82.5,33,32,68.1,9.8,41.82,0,4,7,4,18,1,2,4,2.72,14.24
+malik-jakupovic,Malik Jakupović,Forward,Philadelphia Union,MLS,17,40.0,40.0,27.5,11,0,5.7,0.49,39.55,0,0,2,0,5,4,0,20,,
+guilherme-da-trindade-dubas,Guilherme Biro,Defender,Austin FC,MLS,26,54.0,47.0,77.5,31,29,69.3,8.81,37.9,1,3,5,5,7,11,2,6,0.8,2.7
+kai-wagner,Kai Wagner,Defender,Philadelphia Union,MLS,29,56.0,59.0,85.0,34,34,74.7,18.85,40.15,0,9,6,5,8,5,0,7,17.42,107.79
+cole-bassett,Cole Bassett,Midfielder,Portland Timbers,MLS,25,48.0,54.0,70.0,28,28,70.8,11.25,42.68,0,7,6,6,12,5,0,4,1.35,7.66
+malte-amundsen,Malte Amundsen,Defender,Columbus Crew,MLS,28,45.0,53.0,77.5,31,30,72.2,12.35,40.65,0,2,12,6,11,4,0,5,1.13,4.13
+keisuke-kurokawa,Keisuke Kurokawa,Defender,DC United,MLS,29,45.0,47.0,82.5,33,32,86.8,9.81,36.67,1,1,7,5,13,10,2,1,0.71,3.44
+patrick-schulte,Patrick Schulte,Goalkeeper,Columbus Crew,MLS,25,50.0,47.0,82.5,33,33,78.2,7.75,38.94,0,2,5,5,17,8,0,3,2.06,12.47
+logan-farrington,Logan Farrington,Forward,FC Dallas,MLS,24,47.0,47.0,80.0,32,20,48.6,3.03,44.22,0,5,9,0,12,9,1,4,0.94,2.6
+aleksey-miranchuk,Aleksey Miranchuk,Midfielder,Atlanta United,MLS,30,57.0,54.0,75.0,30,27,76.4,9.3,44.83,0,6,9,6,13,4,0,2,1.74,7.15
+tayvon-gray,Tayvon Gray,Defender,New York City FC,MLS,24,47.0,49.0,87.5,35,34,76.5,12.58,36.86,0,4,7,5,13,6,2,3,0.77,2.8
+kobi-joseph-henry,Kobi Henry,Defender,Real Salt Lake,MLS,22,52.0,52.0,25.0,10,8,19.8,9.61,42.5,0,2,2,1,3,2,0,30,0.7,2.08
+manu-duah,Manu Duah,Midfielder,San Diego FC,MLS,21,59.0,58.0,92.5,37,37,81.6,19.06,39.59,3,4,11,4,11,3,1,3,9.12,45.92
+antonio-carlos-cunha-capocasali-junior,Antônio Carlos,Defender,Houston Dynamo FC,MLS,33,54.0,49.0,45.0,18,16,51.2,15.3,33.89,0,2,2,6,11,3,0,16,0.62,0.8
+cristian-roldan,Cristian Roldan,Midfielder,Seattle Sounders FC,MLS,31,53.0,57.0,65.0,26,23,48.4,15.27,41.73,1,5,3,2,10,2,0,17,3.01,9.66
+freese-matthew,Matt Freese,Goalkeeper,New York City FC,MLS,28,54.0,47.0,92.5,37,37,83.2,6.71,40.68,0,5,8,0,14,9,2,2,4.57,18.51
+milan-iloski,Milan Iloski,Forward,Philadelphia Union,MLS,27,48.0,56.0,92.5,37,35,75.3,9.26,47.57,1,4,13,3,12,4,0,3,3.11,12.13
+idan-toklomati-jorno,Idan Giorno,Forward,Charlotte FC,MLS,22,48.0,47.0,90.0,36,30,71.9,3.49,43.33,0,2,13,0,14,11,0,0,1.84,7.49
+gerardo-valenzuela,Gerardo Valenzuela,Midfielder,FC Cincinnati,MLS,21,54.0,52.0,70.0,28,21,46.2,9.94,42.32,0,2,9,4,8,5,0,12,2.13,9.16
+quinn-sullivan,Quinn Sullivan,Midfielder,Philadelphia Union,MLS,22,49.0,47.0,37.5,15,4,13.5,5.95,40.67,0,1,2,0,9,3,0,25,1.28,4.31
+kenji-mboma-dem,Kenji Mboma Dem,Forward,FC Cincinnati,MLS,24,53.0,52.0,65.0,26,19,39.0,7.9,43.85,1,4,5,0,10,6,0,14,0.96,5.98
+louis-munteanu,Louis Munteanu,Forward,DC United,MLS,24,48.0,48.0,60.0,24,17,55.7,4.28,43.75,0,1,9,0,14,6,0,10,1.03,4.86
+kye-rowles,Kye Rowles,Defender,DC United,MLS,28,46.0,51.0,57.5,23,23,70.2,12.46,38.26,0,1,8,7,12,6,0,6,0.48,2.72
+alonso-coello-camarero,Alonso Coello,Midfielder,Toronto FC,MLS,26,53.0,54.0,72.5,29,23,68.8,18.19,36.72,1,3,8,10,11,6,0,1,0.96,2.72
+taha-habroune,Taha Habroune,Midfielder,Columbus Crew,MLS,20,47.0,51.0,82.5,33,25,59.2,10.32,40.61,0,3,6,6,15,7,0,3,0.79,6.47
+hamzat-basit-ojediran,Hamzat-Basit Ojediran,Midfielder,Colorado Rapids,MLS,22,47.0,46.0,57.5,23,22,41.1,9.87,36.09,0,0,4,5,11,3,0,17,0.63,3.56
+jack-harrison,Jack Harrison,Forward,New England Revolution,MLS,29,57.0,50.0,72.5,29,20,49.0,9.93,40.52,0,2,5,6,11,5,0,11,0.79,18.54
+hany-mukhtar,Hany Mukhtar,Midfielder,Nashville SC,MLS,31,54.0,51.0,95.0,38,33,76.6,6.28,44.74,0,6,6,3,15,8,0,2,6.8,19.83
+chris-durkin,Chris Durkin,Midfielder,St. Louis City SC,MLS,26,52.0,51.0,65.0,26,25,74.6,14.57,36.15,0,1,4,10,12,4,2,7,0.79,2.36
+jeppe-tverskov,Jeppe Tverskov,Midfielder,San Diego FC,MLS,33,55.0,58.0,85.0,34,31,68.9,19.92,38.97,2,7,6,3,11,4,1,6,2.96,49.48
+daniel-edelman,Daniel Edelman,Midfielder,St. Louis City SC,MLS,23,52.0,52.0,65.0,26,24,73.5,11.73,40.0,0,3,7,5,18,2,1,4,1.92,2.63
+luca-daniel-langoni,Luca Langoni,Forward,New England Revolution,MLS,24,47.0,50.0,50.0,20,11,35.1,4.5,45.25,0,3,7,1,15,5,0,9,0.72,3.18
+eduard-lowen,Eduard Löwen,Midfielder,San Jose Earthquakes,MLS,29,52.0,55.0,50.0,20,14,41.5,12.18,42.5,0,5,9,3,12,1,0,10,1.74,6.69
+fabian-herbers,Fabian Herbers,Forward,CF Montreal,MLS,33,45.0,43.0,45.0,18,8,26.0,5.68,37.78,0,0,2,1,15,3,0,19,0.47,1.71
+ryan-porteous,Ryan Porteous,Defender,Los Angeles FC,MLS,27,58.0,56.0,85.0,34,31,73.1,23.07,32.65,0,4,11,7,7,4,1,6,2.61,34.67
+donavan-gusto-phillip,Donavan Phillip,Forward,Colorado Rapids,MLS,21,48.0,48.0,17.5,7,3,10.2,5.51,42.14,0,0,2,0,5,0,0,21,0.62,5.36
+youssef-maziz,Youssef Maziz,Midfielder,Colorado Rapids,MLS,28,50.0,47.0,85.0,34,26,53.4,7.73,39.71,0,2,4,4,16,8,0,6,0.67,3.05
+jovan-lukic-2002-01-20,Jovan Lukić,Midfielder,Philadelphia Union,MLS,24,46.0,45.0,87.5,35,31,66.6,8.84,36.57,0,2,4,5,14,10,0,5,0.88,2.92
+griffin-dorsey,Griffin Dorsey,Defender,Orlando City SC,MLS,27,50.0,46.0,65.0,26,24,65.5,5.2,39.04,0,2,9,4,7,10,2,6,0.53,6.92
+junior-osmar-ignacio-alonso-mujica,Júnior Alonso,Defender,Atlanta United,MLS,33,53.0,49.0,72.5,29,28,62.3,12.52,36.03,0,3,3,7,10,5,1,11,2.59,7.72
+brad-stuver,Brad Stuver,Goalkeeper,Austin FC,MLS,35,48.0,48.0,87.5,35,35,87.5,8.64,39.57,0,3,6,7,16,7,0,1,1.01,5.64
+joel-waterman,Joel Waterman,Defender,Portland Timbers,MLS,30,49.0,46.0,62.5,25,20,47.0,9.43,37.0,0,1,4,5,12,4,0,14,0.51,3.55
+jose-luis-caicedo-barrera,José Caicedo,Midfielder,Portland Timbers,MLS,24,53.0,48.0,60.0,24,16,33.5,13.5,34.38,0,1,3,6,10,3,1,16,,
+sebastian-gomez,Sebastian Gomez,Midfielder,Seattle Sounders FC,MLS,20,48.0,44.0,35.0,14,5,17.1,2.52,41.07,0,2,1,0,7,4,0,22,1.66,5.06
+jamar-ricketts,Jamar Ricketts,Defender,San Jose Earthquakes,MLS,24,40.0,44.0,62.5,25,20,56.5,6.32,38.0,0,3,3,2,12,13,1,6,1.09,1.56
+indiana-vassilev,Indiana Vassilev,Midfielder,Philadelphia Union,MLS,25,51.0,47.0,90.0,36,28,56.5,6.36,40.56,0,3,5,0,25,3,0,4,1.32,1.96
+mauricio-federico-amaro-viega,Mauricio Amaro,Midfielder,Atlanta United,MLS,21,53.0,53.0,12.5,5,4,40.1,18.38,35.0,0,0,0,4,1,1,0,7,1.16,6.54
+simon-becher,Simon Becher,Forward,St. Louis City SC,MLS,27,51.0,49.0,70.0,28,23,68.8,2.22,46.07,0,1,13,0,13,10,1,2,0.72,5.94
+taylor-calheira,Taylor Calheira,Forward,Sporting Kansas City ,MLS,24,49.0,43.0,42.5,17,9,30.1,2.9,40.0,0,1,2,0,11,3,0,8,0.62,4.95
+liel-abada,Liel Abada,Forward,Charlotte FC,MLS,24,57.0,49.0,67.5,27,16,38.1,3.44,45.56,0,1,10,0,14,7,0,8,1.11,8.74
+lucas-adrian-hoyos,Lucas Hoyos,Goalkeeper,Atlanta United,MLS,37,47.0,42.0,65.0,26,26,68.8,4.41,38.08,0,0,4,1,12,8,1,14,1.91,4.26
+ashley-westwood,Ashley Westwood,Midfielder,Charlotte FC,MLS,36,53.0,53.0,77.5,31,30,76.2,13.66,39.03,0,5,6,8,14,3,0,4,0.55,9.13
+antony-alves-santos,Antony,Forward,Portland Timbers,MLS,25,49.0,48.0,87.5,35,24,61.5,8.39,39.86,0,3,8,2,21,4,0,2,1.25,1.93
+angus-gunn,Angus Gunn,Goalkeeper,San Jose Earthquakes,MLS,30,45.0,49.0,42.5,17,16,37.1,6.77,42.35,0,1,3,1,7,2,1,25,4.68,15.13
+matt-polster,Matt Polster,Midfielder,New England Revolution,MLS,33,48.0,45.0,57.5,23,21,57.1,6.36,38.26,0,0,5,4,17,5,0,9,1.27,3.83
+thai-baribo,Tai Baribo,Forward,DC United,MLS,28,55.0,52.0,67.5,27,23,61.6,2.66,48.52,0,2,13,1,7,10,0,7,1.29,4.62
+david-schnegg,David Schnegg,Defender,Charlotte FC,MLS,27,59.0,47.0,55.0,22,17,47.7,5.97,40.91,0,2,4,4,7,12,1,10,1.97,5.23
+ahoueke-denkey,Kévin Denkey,Forward,FC Cincinnati,MLS,25,44.0,56.0,90.0,36,33,71.0,5.67,49.86,0,8,10,2,8,6,1,5,1.4,11.47
+robert-taylor,Robert Taylor,Midfielder,LA Galaxy,MLS,31,50.0,46.0,50.0,20,10,28.0,8.75,37.5,0,1,2,1,17,2,1,16,1.69,3.42
+jacob-shaffelburg,Jacob Shaffelburg,Forward,Los Angeles FC,MLS,26,44.0,43.0,70.0,28,11,27.7,5.15,37.68,0,1,2,1,21,3,0,12,0.88,4.17
+joran-gerbet,Joran Gerbet,Midfielder,Orlando City SC,MLS,25,46.0,45.0,27.5,11,7,14.4,7.35,37.27,0,1,0,2,10,2,0,25,0.54,2.81
+philip-quinton,Philip Quinton,Defender,Real Salt Lake,MLS,26,49.0,46.0,62.5,25,19,53.1,9.22,37.0,0,1,4,3,13,5,0,14,2.09,2.85
+lucas-halter,Lucas Halter,Defender,Houston Dynamo FC,MLS,26,57.0,55.0,62.5,25,25,53.3,16.56,38.0,0,2,7,5,10,1,0,15,2.77,10.07
+keegan-rosenberry,Keegan Rosenberry,Defender,Colorado Rapids,MLS,32,47.0,43.0,40.0,16,3,18.4,6.12,36.56,0,0,4,3,8,5,0,20,0.45,1.35
+matthew-dos-santos,Matthew Dos Santos,Defender,New York Red Bulls,MLS,18,50.0,43.0,60.0,24,23,62.7,7.87,35.0,0,1,3,4,5,10,1,2,,
+joshua-sargent,Josh Sargent,Forward,Toronto FC,MLS,26,50.0,49.0,55.0,22,20,42.0,4.77,44.32,0,2,5,1,8,6,0,18,1.68,10.49
+steven-moreira,Steven Moreira,Defender,Columbus Crew,MLS,32,42.0,42.0,95.0,38,32,74.3,5.38,36.45,0,2,4,1,17,12,1,3,0.71,1.36
+yadaly-diaby,Yadaly Diaby,Forward,Vancouver Whitecaps FC,MLS,26,56.0,52.0,85.0,34,27,64.1,8.29,44.12,0,6,7,3,16,3,1,4,2.48,7.3
+jordan-morris,Jordan Morris,Forward,Seattle Sounders FC,MLS,31,45.0,49.0,60.0,24,19,40.3,5.84,42.71,0,1,7,2,12,4,0,14,3.46,9.93
+zan-kolmanic,Žan Kolmanič ,Defender,Austin FC,MLS,26,50.0,41.0,55.0,22,4,20.7,4.01,37.27,0,1,1,2,12,10,0,14,1.02,1.02
+thiago-martins-bueno,Thiago Martins,Defender,New York City FC,MLS,31,50.0,54.0,77.5,31,31,72.0,14.67,38.55,0,3,8,11,7,2,2,7,1.67,6.75
+breel-donald-embolo,Breel Embolo,Forward,Atlanta United,MLS,29,53.0,50.0,95.0,38,27,63.4,4.36,45.26,0,2,13,1,13,8,1,2,5.75,27.66
+joao-klauss-de-mello,Klauss,Forward,LA Galaxy,MLS,29,47.0,53.0,47.5,19,15,35.8,5.29,47.37,0,5,6,0,11,1,0,17,1.6,5.18
+preston-judd,Preston Judd,Forward,San Jose Earthquakes,MLS,27,46.0,51.0,67.5,27,19,60.9,2.2,48.52,0,2,15,0,9,11,0,3,1.18,7.24
+alexis-alejandro-sanchez-sanchez,Alexis Sánchez,Forward,CF Montreal,MLS,37,45.0,45.0,80.0,32,14,37.6,6.38,38.13,0,0,5,3,19,5,0,8,2.18,10.17
+lineker-rodrigues-dos-santos,Lineker Rodrigues,Forward,Real Salt Lake,MLS,24,42.0,42.0,22.5,9,4,21.6,1.72,40.56,0,0,2,0,3,4,0,8,0.56,3.96
+bruno-steven-caicedo-quinonez,Bruno Caicedo,Forward,Vancouver Whitecaps FC,MLS,21,54.0,52.0,57.5,23,11,27.3,7.25,44.78,0,0,10,0,13,0,0,17,0.8,4.25
+jonathan-bell,Jon Bell,Defender,Austin FC,MLS,29,44.0,43.0,57.5,23,12,33.6,6.81,36.3,0,0,5,2,9,6,1,17,0.48,0.97
+anzor-mekvabishvili,Anzor Mekvabishvili,Midfielder,Chicago Fire FC,MLS,25,42.0,40.0,30.0,12,10,52.7,4.89,35.42,0,2,3,2,11,7,0,15,1.67,5.56
+calvin-harris,Calvin Harris,Forward,Sporting Kansas City ,MLS,26,46.0,45.0,65.0,26,24,72.6,5.63,39.81,0,3,7,2,18,7,0,3,0.48,2.61
+tate-johnson,Tate Johnson,Defender,Vancouver Whitecaps FC,MLS,21,55.0,53.0,87.5,35,33,72.6,18.42,35.0,0,2,8,11,11,2,0,6,1.92,15.2
+christian-ramirez,Christian Ramírez,Forward,Austin FC,MLS,35,44.0,45.0,65.0,26,15,35.1,1.42,43.46,0,0,8,0,13,7,0,12,0.48,2.98
+bernard-kamungo,Bernard Kamungo,Forward,FC Dallas,MLS,24,46.0,47.0,65.0,26,23,60.1,9.2,38.27,0,4,0,4,21,1,0,10,1.27,2.88
+daryl-dike,Daryl Dike,Forward,Orlando City SC,MLS,26,43.0,40.0,75.0,30,9,26.1,-0.53,40.0,0,0,6,0,9,15,0,10,2.08,5.66
+mathias-nicolas-laborda-malsenido,Mathias Laborda,Defender,Vancouver Whitecaps FC,MLS,27,57.0,54.0,95.0,38,32,75.9,15.25,38.42,1,5,7,6,14,3,1,3,5.52,38.1
+emir-karic,Emir Karic,Defender,Sporting Kansas City ,MLS,29,52.0,50.0,95.0,38,33,72.8,12.34,36.97,0,2,8,7,13,7,0,3,0.96,6.26
+efrain-morales,Efraín Morales,Defender,CF Montreal,MLS,22,47.0,48.0,50.0,20,17,46.9,12.64,35.25,0,1,4,7,11,4,1,12,0.46,2.34
+martin-exequiel-ojeda,Martín Ojeda,Midfielder,Orlando City SC,MLS,27,55.0,50.0,62.5,25,23,60.1,4.55,45.0,0,4,7,2,15,2,0,10,2.0,8.04
+andrei-chirila,Andrei Chirilă,Defender,FC Cincinnati,MLS,18,48.0,49.0,32.5,13,11,31.4,13.75,35.38,0,0,6,2,2,2,1,19,,
+miles-robinson,Miles Robinson,Defender,FC Cincinnati,MLS,29,52.0,46.0,72.5,29,27,55.6,11.65,34.83,0,1,5,8,5,8,2,11,1.36,3.75
+justin-reynolds,Justin Reynolds,Defender,Sporting Kansas City ,MLS,22,46.0,48.0,37.5,15,8,22.6,9.41,38.67,0,1,3,2,5,4,0,25,0.47,2.52
+paulo-cesar-diaz-huincales,Paulo Díaz,Defender,Atlanta United,MLS,32,44.0,46.0,32.5,13,8,17.7,11.47,35.0,0,0,1,5,6,1,0,27,0.67,8.84
+enea-mihaj,Enea Mihaj,Defender,Atlanta United,MLS,28,42.0,43.0,62.5,25,18,50.8,8.77,34.2,0,2,2,8,12,8,1,7,1.17,1.2
+matthew-james-corcoran,Matthew Corcoran,Midfielder,Nashville SC,MLS,20,46.0,47.0,87.5,35,27,61.1,10.96,35.86,0,1,3,7,18,6,0,5,1.52,4.16
+jalen-neal,Jalen Neal,Defender,CF Montreal,MLS,23,47.0,44.0,45.0,18,17,46.3,9.21,35.28,0,0,2,3,11,4,0,20,0.61,2.03
+ruben-ramos-jr,Rubén Ramos,Forward,Sporting Kansas City ,MLS,19,37.0,37.0,27.5,11,2,7.3,-0.35,37.27,0,0,1,0,5,6,0,28,0.56,3.13
+saba-lobzhanidze,Saba Lobjanidze,Forward,Real Salt Lake,MLS,31,45.0,46.0,77.5,31,14,38.8,5.48,40.16,0,2,4,2,20,7,0,5,1.68,5.78
+tomas-alejandro-chancalay,Tomás Chancalay,Forward,Minnesota United,MLS,27,43.0,48.0,80.0,32,21,59.9,6.91,40.78,0,2,8,2,20,8,0,0,1.04,1.69
+teenage-lingani-hadebe,Teenage Hadebe,Defender,FC Cincinnati,MLS,31,38.0,46.0,60.0,24,13,28.3,7.93,38.13,0,2,2,3,10,6,0,17,1.11,2.39
+elias-de-jesus-baez-sotelo,Elías Báez,Defender,Atlanta United,MLS,21,46.0,43.0,77.5,31,31,74.2,4.8,37.58,1,0,6,4,10,10,3,6,0.63,6.0
+maxime-crepeau,Maxime Crépeau,Goalkeeper,Orlando City SC,MLS,32,48.0,48.0,85.0,34,34,74.7,7.52,40.59,0,3,7,2,11,9,1,7,2.82,16.47
+christopher-mcvey,Christopher Mcvey,Defender,San Diego FC,MLS,29,49.0,48.0,90.0,36,29,65.5,12.1,35.56,0,4,9,2,9,7,5,4,0.56,0.94
+eddie-livington-segura-martinez,Eddie Segura,Defender,Los Angeles FC,MLS,29,49.0,51.0,77.5,31,29,65.8,14.96,35.81,0,3,5,7,10,5,1,9,1.04,2.27
+eric-bertrand-bailly,Eric Bailly,Defender,Columbus Crew,MLS,32,48.0,50.0,37.5,15,13,27.1,10.74,38.33,0,1,2,5,6,0,1,25,0.86,5.41
+tomas-totland,Tomas Totland,Defender,St. Louis City SC,MLS,26,52.0,50.0,62.5,25,18,59.9,8.43,41.4,0,3,4,5,12,5,1,10,0.85,3.03
+jahkeele-marshall-rutty,Jahkeele Marshall-Rutty,Forward,New York Red Bulls,MLS,22,42.0,44.0,70.0,28,19,46.5,7.95,35.89,0,1,2,3,19,8,1,6,0.54,1.06
+matti-peltola,Matti Peltola,Defender,DC United,MLS,24,45.0,49.0,80.0,32,24,67.2,12.72,36.56,0,2,8,7,17,5,0,1,0.8,1.36
+fallou-fall-2004-04-15,Fallou Fall,Defender,St. Louis City SC,MLS,22,53.0,51.0,30.0,12,7,23.0,10.27,41.25,2,0,4,3,3,5,0,23,1.34,3.88
+samuel-mawuena-gidi,Samuel Gidi,Midfielder,FC Cincinnati,MLS,22,45.0,47.0,92.5,37,30,69.3,9.84,37.16,0,0,7,7,19,5,0,2,1.42,4.46
+diego-santiago-fagundez-pepe,Diego Fagúndez,Midfielder,New England Revolution,MLS,31,39.0,43.0,45.0,18,5,20.4,3.59,39.17,0,2,5,1,17,4,0,11,0.57,1.91
+adri-mehmeti,Adri Mehmeti,Midfielder,New York Red Bulls,MLS,17,53.0,53.0,62.5,25,25,70.5,14.94,38.4,0,4,3,6,10,3,0,14,1.81,7.64
+joseph-yeramid-rosales-erazo,Joseph Rosales,Midfielder,Austin FC,MLS,25,39.0,42.0,95.0,38,37,73.8,2.45,37.37,1,1,7,2,12,9,6,2,0.48,5.13
+ronald-jose-hernandez-pimentel,Ronald Hernández,Defender,Portland Timbers,MLS,29,40.0,43.0,32.5,13,7,23.4,8.2,35.0,0,1,3,5,6,4,2,19,1.17,0.93
+santiago-moreno,Santiago Moreno,Forward,FC Dallas,MLS,26,52.0,49.0,67.5,27,12,28.1,7.61,41.48,0,3,4,1,17,2,0,13,1.18,7.66
+daniel-job,Daniel Job,Midfielder,FC Dallas,MLS,21,45.0,45.0,12.5,5,0,12.8,4.56,40.0,0,1,2,0,19,1,0,17,1.72,
+lawrence-ennali,Lawrence Ennali,Forward,Houston Dynamo FC,MLS,24,48.0,49.0,72.5,29,27,82.8,7.11,42.24,0,2,9,3,20,6,0,0,0.8,5.29
+lasse-berg-johnsen,Lasse Berg Johnsen,Midfielder,Sporting Kansas City ,MLS,27,48.0,44.0,67.5,27,24,62.7,7.87,36.3,0,1,3,7,12,6,1,10,0.55,2.16
+tah-ange-innocent-d-avilla-dje,Tah D'Avilla,Midfielder,Chicago Fire FC,MLS,23,51.0,45.0,85.0,34,29,68.1,10.2,34.71,0,2,2,10,18,4,1,3,0.55,1.65
+samual-rogers,Samual Rogers,Defender,Chicago Fire FC,MLS,27,42.0,43.0,30.0,12,11,22.3,7.78,35.0,0,1,1,2,8,2,0,26,0.46,0.99
+paul-joseph-arriola-hendricks,Paul Arriola,Forward,Seattle Sounders FC,MLS,31,40.0,41.0,47.5,19,8,15.9,3.26,38.16,0,1,1,0,14,3,0,21,1.67,2.43
+jude-terry,Jude Terry,Midfielder,Los Angeles FC,MLS,17,42.0,42.0,42.5,17,5,11.8,2.79,39.41,0,1,2,0,10,4,0,23,1.04,7.05
+franco-negri,Franco Negri,Defender,Houston Dynamo FC,MLS,31,47.0,44.0,47.5,19,10,25.2,6.21,37.63,0,2,2,4,7,6,0,19,1.19,3.12
+tim-ream,Tim Ream,Defender,Charlotte FC,MLS,38,48.0,48.0,75.0,30,30,65.9,13.39,34.5,0,0,7,12,8,3,1,9,0.69,3.99
+andre-filipe-tavares-gomes,André Gomes,Midfielder,Columbus Crew,MLS,33,50.0,48.0,55.0,22,18,39.9,12.35,35.23,0,0,2,5,12,3,0,18,0.72,4.76
+diego-ferney-chara-zamora,Diego Chará,Midfielder,Portland Timbers,MLS,40,48.0,47.0,70.0,28,17,46.2,10.9,35.89,0,0,4,5,20,2,0,9,0.86,1.07
+elias-saad,Elias Saad,Forward,Nashville SC,MLS,26,52.0,48.0,72.5,29,19,41.0,6.64,41.38,0,3,4,2,14,6,0,11,1.82,6.21
+juan-manuel-sanabria-magole,Juan Sanabria,Midfielder,Real Salt Lake,MLS,26,47.0,51.0,87.5,35,30,64.3,10.98,40.0,0,5,4,9,14,3,0,5,1.19,2.29
+sekou-kone-ml,Sekou Kone,Midfielder,New York Red Bulls,MLS,0,47.0,47.0,2.5,1,0,19.0,11.7,35.0,0,0,0,0,1,0,0,2,,
+pablo-enrique-ruiz,Pablo Ruíz ,Midfielder,LA Galaxy,MLS,27,47.0,47.0,40.0,16,7,23.5,6.84,39.69,0,1,2,3,10,3,0,21,0.48,2.16
+giuliano-galoppo,Giuliano Galoppo,Midfielder,Atlanta United,MLS,27,46.0,43.0,45.0,18,7,21.6,6.4,36.39,0,1,0,1,13,3,0,22,2.45,5.28
+luca-petrasso,Luca Petrasso,Defender,CF Montreal,MLS,26,51.0,48.0,67.5,27,25,79.7,9.37,38.89,0,3,6,6,14,8,1,2,1.48,2.3
+sean-johnson,Sean Johnson,Goalkeeper,DC United,MLS,37,45.0,48.0,72.5,29,29,90.0,7.28,41.21,0,2,10,4,11,9,1,3,1.19,6.76
+mateusz-bogusz,Mateusz Bogusz,Midfielder,Houston Dynamo FC,MLS,25,47.0,45.0,75.0,30,26,58.8,5.8,39.17,0,2,3,6,12,6,1,10,1.11,4.94
+maya-yoshida,Maya Yoshida,Defender,LA Galaxy,MLS,38,47.0,50.0,70.0,28,20,46.6,11.47,38.57,0,1,9,7,8,6,0,9,0.95,3.51
+diego-luna-2003-09-07,Diego Luna,Midfielder,Real Salt Lake,MLS,23,55.0,53.0,65.0,26,20,53.1,9.97,43.85,1,7,2,1,13,5,1,10,0.72,7.39
+olger-armando-escobar-real,Olger Escobar,Forward,CF Montreal,MLS,20,34.0,39.0,55.0,22,4,17.6,1.56,37.0,0,0,3,0,17,10,0,10,0.68,1.75
+iago-teodoro-da-silva-nogueira,Iago Teodoro,Defender,Orlando City SC,MLS,21,44.0,39.0,47.5,19,15,35.0,2.71,36.58,0,0,2,3,8,5,1,21,0.52,3.6
+walker-zimmerman,Walker Zimmerman,Defender,Toronto FC,MLS,33,46.0,45.0,70.0,28,26,68.8,11.38,33.93,0,3,7,3,12,6,3,6,0.72,7.91
+ronald-donkor,Ronald Donkor,Midfielder,New York Red Bulls,MLS,21,51.0,50.0,65.0,26,26,78.0,9.8,39.62,0,2,8,6,16,3,0,5,0.62,2.73
+rui-manuel-muati-modesto,Rui Modesto,Midfielder,Vancouver Whitecaps FC,MLS,26,41.0,43.0,32.5,13,7,16.9,3.32,39.23,0,1,2,0,5,4,1,27,3.39,2.65
+alexander-roldan,Alex Roldan,Defender,Seattle Sounders FC,MLS,30,43.0,53.0,82.5,33,27,58.1,15.08,38.18,0,3,11,5,10,5,0,6,2.95,7.68
+sebastien-uchechukwu-ibeagha,Sebastien Ibeagha,Defender,FC Dallas,MLS,34,47.0,44.0,85.0,34,25,63.9,7.32,36.47,0,0,3,7,21,7,0,2,0.46,1.29
+ralph-priso-mbongue,Ralph Priso,Midfielder,Vancouver Whitecaps FC,MLS,24,50.0,48.0,60.0,24,18,36.4,9.8,38.13,0,1,2,6,14,1,0,16,1.41,1.79
+cade-cowell,Cade Cowell,Forward,New York Red Bulls,MLS,22,46.0,47.0,72.5,29,24,45.7,5.46,41.21,0,3,3,3,14,7,0,10,0.58,2.86
+raul-gustavo-pereira-bicalho,Raul Gustavo,Defender,New York City FC,MLS,27,50.0,49.0,70.0,28,20,49.5,11.72,36.79,0,1,5,6,12,5,0,11,0.64,3.22
+morris-duggan,Morris Duggan,Defender,Minnesota United,MLS,25,50.0,47.0,85.0,34,32,79.8,9.58,37.65,0,3,4,6,17,4,3,3,0.62,2.62
+brandon-servania,Brandon Servania,Midfielder,DC United,MLS,27,41.0,41.0,65.0,26,24,71.6,6.88,34.23,0,1,2,3,23,8,1,2,0.47,0.99
+ender-jesus-echenique-pena,Ender Echenique,Forward,FC Cincinnati,MLS,22,51.0,49.0,87.5,35,28,57.0,8.31,41.0,0,3,7,3,19,3,0,5,1.51,4.0
+jack-elliott,Jack Elliott,Defender,Chicago Fire FC,MLS,31,43.0,48.0,85.0,34,33,81.1,9.25,38.09,0,4,3,8,14,7,1,3,0.62,2.67
+hector-miguel-herrera-lopez,Héctor Herrera,Midfielder,Houston Dynamo FC,MLS,36,49.0,46.0,85.0,34,16,39.0,10.04,35.88,0,1,4,3,22,3,1,6,1.92,5.66
+cedric-bakambu,Cédric Bakambu,Forward,San Diego FC,MLS,35,38.0,41.0,55.0,22,12,27.6,1.0,39.55,0,0,5,0,6,11,0,18,1.86,2.7
+mitja-ilencic,Mitja Ilenič,Defender,New York City FC,MLS,21,38.0,38.0,25.0,10,3,16.5,3.47,35.0,0,1,0,0,9,6,0,24,0.82,4.16
+ian-fray,Ian Fray,Defender,Inter Miami CF,MLS,24,49.0,45.0,77.5,31,26,55.1,4.33,40.65,0,1,6,2,11,10,0,10,1.36,6.44
+timo-baumgartl,Timo Baumgartl,Defender,St. Louis City SC,MLS,30,52.0,50.0,67.5,27,27,83.8,14.07,35.93,0,2,5,8,16,3,0,6,1.11,3.97
+emilio-aristizabal-chavarriaga,Emilio Aristizábal,Forward,Toronto FC,MLS,21,45.0,43.0,72.5,29,17,35.3,2.73,39.83,0,1,5,0,16,7,0,11,0.45,1.39
+stephen-afrifa,Stephen Afrifa,Forward,Sporting Kansas City ,MLS,25,41.0,41.0,55.0,22,5,24.4,1.77,39.55,0,0,4,0,15,7,0,14,0.48,4.59
+rodolfo-aloko,Rodolfo Aloko,Forward,Charlotte FC,MLS,19,46.0,41.0,57.5,23,9,35.9,2.4,38.26,0,0,3,0,13,7,0,6,0.71,6.84
+kyogo-furuhashi,Kyogo Furuhashi,Forward,LA Galaxy,MLS,31,41.0,38.0,52.5,21,11,24.4,0.68,37.38,0,0,2,0,12,7,0,19,1.28,8.45
+jakob-glesnes,Jakob Glesnes,Defender,LA Galaxy,MLS,32,53.0,55.0,72.5,29,29,65.2,15.19,39.83,1,5,6,2,8,5,2,11,1.87,10.19
+brooks-lennon,Brooks Lennon,Defender,Columbus Crew,MLS,29,40.0,39.0,30.0,12,6,29.7,1.95,37.08,0,0,3,2,10,12,3,10,0.64,0.59
+daniel-armando-rios-calderon,Daniel Ríos,Forward,CF Montreal,MLS,31,43.0,41.0,72.5,29,11,29.1,2.04,38.62,0,0,6,0,16,9,1,8,0.45,1.5
+ronaldo-vieira-nan,Ronaldo Vieira,Midfielder,San Jose Earthquakes,MLS,28,42.0,41.0,60.0,24,25,65.5,5.2,35.21,0,2,7,1,11,2,0,17,0.45,1.39
+matt-turner,Matt Turner,Goalkeeper,New England Revolution,MLS,32,48.0,48.0,77.5,31,31,75.4,9.85,38.55,0,5,3,5,16,5,2,4,3.41,14.19
+rayan-elloumi,Rayan Elloumi,Forward,Vancouver Whitecaps FC,MLS,19,42.0,37.0,75.0,30,5,19.7,-0.01,37.5,0,0,3,0,11,15,0,11,0.88,4.4
+ian-murphy,Ian Murphy,Defender,San Diego FC,MLS,26,47.0,44.0,30.0,12,8,23.2,9.19,35.0,0,0,0,4,7,5,0,24,0.99,0.97
+agustin-bouzat,Agustín Bouzat,Midfielder,Houston Dynamo FC,MLS,32,46.0,41.0,75.0,30,21,53.1,4.68,36.17,0,0,4,3,17,9,1,6,1.12,0.81
+harvey-sarajian,Harvey Sarajian,Forward,Orlando City SC,MLS,21,38.0,38.0,25.0,10,1,6.3,0.37,37.5,0,0,1,0,5,4,0,19,0.4,5.23
+ervin-torres,Ervin Torres,Midfielder,Austin FC,MLS,18,49.0,48.0,42.5,17,11,28.9,9.25,38.53,0,1,2,4,8,3,0,22,1.84,5.14
+daniel-gazdag,Dániel Gazdag,Midfielder,New England Revolution,MLS,30,42.0,44.0,77.5,31,16,40.1,4.47,39.19,0,2,6,0,18,8,1,5,0.71,5.58
+mohammed-sofo,Mohammed Sofo,Forward,New York Red Bulls,MLS,21,42.0,39.0,52.5,21,7,28.8,1.89,37.38,0,0,2,1,13,14,1,9,0.31,3.04
+maximiliano-joel-falcon-picart,Maximiliano Falcón,Defender,Inter Miami CF,MLS,29,38.0,44.0,65.0,26,25,54.5,9.48,33.85,0,0,4,5,13,3,1,14,1.57,4.69
+derrick-etienne-jr,Derrick Etienne Jr.,Forward,Toronto FC,MLS,29,45.0,41.0,70.0,28,18,38.3,1.12,40.36,0,0,6,0,12,11,0,11,0.78,1.56
+dominik-marczuk,Dominik Marczuk,Forward,Real Salt Lake,MLS,22,43.0,41.0,40.0,16,4,13.4,4.16,36.56,0,0,1,2,13,3,0,21,0.62,1.34
+james-sands,James Sands,Midfielder,New York City FC,MLS,26,47.0,47.0,77.5,31,30,64.0,10.71,35.97,0,1,2,9,15,4,0,9,1.2,1.69
+christian-cappis,Christian Cappis,Midfielder,FC Dallas,MLS,27,42.0,42.0,87.5,35,23,62.3,5.48,36.43,0,1,3,6,21,8,0,1,0.39,0.85
+erik-thommy,Erik Thommy,Midfielder,LA Galaxy,MLS,32,42.0,44.0,55.0,22,13,29.6,8.22,36.14,0,0,2,3,18,2,0,15,0.95,3.49
+diadie-samassekou,Diadié Samassékou,Midfielder,Houston Dynamo FC,MLS,30,40.0,41.0,55.0,22,11,30.9,7.26,34.09,0,0,1,3,16,3,0,17,1.2,1.2
+julian-aude,Julián Aude,Defender,LA Galaxy,MLS,23,45.0,47.0,52.5,21,15,33.3,7.71,38.57,0,0,5,1,12,4,0,18,1.2,1.57
+andres-felipe-perea-castaneda,Andrés Perea,Midfielder,New York City FC,MLS,25,46.0,50.0,65.0,26,22,53.1,8.51,40.77,0,4,4,5,10,5,0,12,0.95,4.12
+adam-james-beaudry,Adam Beaudry,Goalkeeper,Colorado Rapids,MLS,20,44.0,44.0,5.0,2,2,10.0,6.5,37.5,0,1,0,0,0,1,1,37,1.0,5.88
+luka-gavran,Luka Gavran,Goalkeeper,Toronto FC,MLS,26,44.0,46.0,67.5,27,27,75.8,7.94,37.59,0,1,5,6,10,4,3,11,1.76,15.12
+matthew-edwards,Matthew Edwards,Defender,Atlanta United,MLS,23,39.0,39.0,42.5,17,7,24.7,2.29,36.47,0,0,1,1,10,5,0,23,0.4,0.91
+william-conner-antley,Conner Antley,Defender,DC United,MLS,31,36.0,36.0,17.5,7,3,12.4,4.03,32.14,0,0,2,1,5,12,1,19,0.34,0.47
+steven-alzate,Steven Alzate,Midfielder,Atlanta United,MLS,28,41.0,42.0,40.0,16,8,28.6,7.14,35.0,0,1,2,1,18,1,1,16,0.47,1.31
+dylan-chambost,Dylan Chambost,Midfielder,Columbus Crew,MLS,29,43.0,49.0,80.0,32,23,53.4,11.97,36.88,0,1,5,7,18,4,1,4,0.62,2.0
+kieran-sargeant,Kieran Sargeant,Defender,San Diego FC,MLS,23,46.0,47.0,52.5,21,15,38.5,8.57,38.57,0,1,3,5,8,4,0,19,1.22,7.6
+reggie-cannon,Reggie Cannon,Defender,Colorado Rapids,MLS,28,55.0,50.0,47.5,19,16,46.3,9.08,40.26,0,2,4,2,9,11,0,12,0.76,6.25
+gabriel-cordeiro-pirani,Gabriel Pirani,Midfielder,San Diego FC,MLS,24,49.0,42.0,47.5,19,16,39.7,3.21,38.95,0,2,3,1,15,6,0,13,0.71,6.53
+paul-marie,Paul Marie,Defender,San Jose Earthquakes,MLS,31,44.0,43.0,42.5,17,4,17.5,3.99,39.12,0,1,2,0,11,4,0,22,1.01,1.23
+nathan-byrne,Nathan Byrne,Defender,Charlotte FC,MLS,34,44.0,42.0,77.5,31,28,71.8,7.25,35.0,0,1,2,5,22,6,0,4,0.48,1.09
+sergio-oregel-jr,Sergio Oregel,Midfielder,Chicago Fire FC,MLS,21,43.0,41.0,40.0,16,7,19.5,7.22,33.75,0,0,0,2,12,3,1,22,0.54,1.07
+ilay-feingold,Ilay Feingold,Defender,New England Revolution,MLS,22,47.0,48.0,37.5,15,9,27.8,9.71,38.33,0,2,3,3,14,3,0,15,0.71,2.58
+cameron-harper-2001-11-19,Cameron Harper,Forward,New York Red Bulls,MLS,24,44.0,44.0,20.0,8,2,8.9,2.91,41.25,0,0,2,0,5,1,0,32,0.46,2.42
+sergi-roberto-carnicer,Sergi Roberto,Midfielder,LA Galaxy,MLS,34,41.0,40.0,47.5,19,5,14.1,5.42,35.0,0,0,0,1,15,3,0,21,1.64,11.26
+william-reilly,William Reilly,Midfielder,Atlanta United,MLS,23,38.0,37.0,27.5,11,8,23.8,1.94,35.0,0,0,0,2,10,6,0,22,1.02,1.54
+samuel-sarver,Samuel Sarver,Forward,FC Dallas,MLS,23,38.0,45.0,55.0,22,5,15.7,2.07,42.95,0,0,7,0,10,6,0,17,0.48,0.95
+puso-dithejane,Puso Dithejane,Forward,Chicago Fire FC,MLS,22,48.0,44.0,57.5,23,7,28.2,3.78,39.78,0,1,3,0,13,6,0,6,0.56,4.93
+bryan-josue-acosta-ramos,Bryan Acosta,Midfielder,Nashville SC,MLS,32,41.0,47.0,57.5,23,12,25.1,6.72,39.78,0,2,2,2,14,3,0,17,1.2,2.17
+anton-saletros,Anton Salétros,Midfielder,Chicago Fire FC,MLS,30,51.0,48.0,67.5,27,24,70.9,9.97,37.78,0,3,3,5,17,6,0,6,0.44,3.24
+wil-trapp,Wil Trapp,Midfielder,Minnesota United,MLS,33,43.0,44.0,87.5,35,28,66.5,6.51,37.14,0,2,4,6,20,7,0,1,0.48,2.77
+justin-haak,Justin Haak,Midfielder,LA Galaxy,MLS,25,48.0,46.0,97.5,39,36,81.2,9.62,36.41,0,2,5,10,12,9,1,1,0.88,6.25
+andre-dozzell,Andre Dozzell,Midfielder,DC United,MLS,27,45.0,45.0,80.0,32,31,67.8,7.21,37.34,0,1,2,3,19,6,0,9,0.63,6.15
+enzo-dovlo,Enzo Dovlo,Forward,Atlanta United,MLS,23,43.0,43.0,2.5,1,0,4.0,7.7,35.0,0,0,0,0,1,0,0,4,,
+dante-polvara,Dante Polvara,Midfielder,St. Louis City SC,MLS,26,57.0,51.0,90.0,36,33,70.9,14.39,37.08,0,3,5,9,17,2,0,4,1.63,6.33
+sam-adekugbe,Samuel Adekugbe,Defender,Vancouver Whitecaps FC,MLS,31,40.0,40.0,17.5,7,2,3.2,4.92,35.0,0,0,0,0,7,0,0,33,1.81,2.81
+sebastian-breza,Sebastian Breza,Goalkeeper,CF Montreal,MLS,28,39.0,39.0,17.5,7,7,21.7,3.99,35.0,0,0,0,2,0,5,0,33,1.49,3.89
+amahl-pellegrino,Amahl Pellegrino,Forward,San Diego FC,MLS,36,43.0,48.0,72.5,29,19,42.5,4.18,44.14,1,2,6,0,15,4,1,11,0.55,1.55
+dayne-st-clair,Dayne St. Clair,Goalkeeper,Inter Miami CF,MLS,29,41.0,42.0,62.5,25,25,56.2,4.49,37.4,0,2,3,1,10,10,1,13,2.16,36.59
+lewis-morgan-1996-09-30,Lewis Morgan,Midfielder,Toronto FC,MLS,29,43.0,41.0,52.5,21,10,24.0,3.4,37.62,0,0,3,0,13,4,1,19,0.8,5.49
+miguel-angel-navarro-zarate,Miguel     Navarro,Defender,Colorado Rapids,MLS,27,52.0,47.0,65.0,26,17,43.8,9.51,37.12,0,1,5,2,11,7,1,13,0.61,1.85
+andrew-guerra,G. Guerra,Forward,Portland Timbers,MLS,23,41.0,44.0,35.0,14,4,11.5,0.89,42.14,0,0,4,0,7,3,0,26,0.72,3.21
+alexander-shaw,Alexander Shaw,Midfielder,Inter Miami CF,MLS,18,40.0,40.0,15.0,6,0,3.0,0.68,39.17,0,0,1,0,1,4,0,24,,
+emmanuel-sabbi,Emmanuel Sabbi,Forward,Vancouver Whitecaps FC,MLS,28,51.0,46.0,85.0,34,24,48.7,3.59,42.21,0,1,8,0,18,7,0,6,1.18,4.55
+patrick-yazbek,Patrick Yazbek,Midfielder,Nashville SC,MLS,24,43.0,45.0,65.0,26,19,38.7,6.52,38.65,0,2,1,3,17,4,0,13,1.37,2.85
+jean-eric-maxim-choupo-moting,Eric Maxim Choupo-Moting,Forward,New York Red Bulls,MLS,37,45.0,45.0,50.0,20,5,21.0,2.4,43.0,0,2,7,0,9,8,0,14,0.44,1.43
+jonathan-shore,Jonathan Shore,Midfielder,New York City FC,MLS,19,43.0,41.0,62.5,25,10,24.7,5.86,35.0,0,0,1,2,19,4,0,14,1.29,2.02
+richie-laryea,Richie Laryea,Defender,Toronto FC,MLS,31,41.0,46.0,82.5,33,32,74.4,6.9,38.94,0,3,8,4,7,9,3,6,0.48,2.36
+nolan-norris,Nolan Norris,Defender,FC Dallas,MLS,21,45.0,47.0,62.5,25,21,53.3,10.63,36.4,0,2,3,3,12,7,0,13,1.03,5.07
+jonathan-bamba,Jonathan Bamba,Forward,Chicago Fire FC,MLS,30,40.0,47.0,70.0,28,20,48.3,7.62,39.11,0,2,4,3,17,5,0,9,0.47,1.21
+luighi-hanri-sousa-santos,Luighi Hanri,Forward,New York City FC,MLS,20,45.0,40.0,57.5,23,8,21.9,-0.21,40.43,0,0,5,0,6,12,0,17,1.59,3.38
+adrian-simon-gill,Adrian Gill,Midfielder,Atlanta United,MLS,20,44.0,44.0,15.0,6,3,13.1,9.32,35.0,0,0,0,1,5,0,0,20,0.47,2.97
+benie-adama-traore,Bénie Traoré,Forward,New York City FC,MLS,23,42.0,48.0,95.0,38,32,59.6,6.85,40.79,0,3,5,4,17,9,0,2,2.77,9.36
+gonzalo-andres-tapia-dubournais,Gonzalo Tapia,Forward,Columbus Crew,MLS,24,42.0,41.0,65.0,26,9,23.7,1.09,40.19,0,0,2,1,14,9,0,14,2.08,6.5
+osvaldo-pedro-capemba,Capita,Forward,Sporting Kansas City ,MLS,24,47.0,46.0,40.0,16,15,52.0,6.64,39.69,0,0,3,2,8,3,0,9,0.63,2.29
+cesar-ezequiel-abadia-reda,Cesar Abadia-Reda,Defender,Inter Miami CF,MLS,20,36.0,36.0,10.0,4,0,1.0,1.39,35.0,0,0,0,0,2,2,0,36,,
+wayne-frederick-ii,Wayne Frederick,Midfielder,Colorado Rapids,MLS,22,40.0,45.0,62.5,25,17,47.6,5.2,39.2,0,0,5,2,15,3,1,14,0.63,1.13
+magomed-shapi-suleymanov,Magomed-Shapi Suleymanov,Forward,Sporting Kansas City ,MLS,26,44.0,43.0,55.0,22,12,37.6,6.9,36.36,0,1,2,2,25,3,1,6,0.46,1.31
+djibril-diani,Djibril Diani,Midfielder,Charlotte FC,MLS,28,45.0,46.0,80.0,32,22,52.5,9.86,35.78,1,1,2,4,25,4,0,3,0.54,1.46
+will-cleary,Will Cleary,Defender,Charlotte FC,MLS,23,47.0,46.0,27.5,11,8,25.8,6.59,39.55,0,1,1,0,7,2,0,18,,
+besard-sabovic,Besard Šabović,Midfielder,Austin FC,MLS,28,41.0,41.0,77.5,31,16,45.4,4.7,35.97,0,0,2,3,21,7,1,6,0.47,0.97
+fricio-david-caicedo-jaramillo,Fricio Caicedo,Defender,Inter Miami CF,MLS,18,46.0,46.0,17.5,7,6,38.1,13.46,32.14,0,0,1,3,2,0,1,33,,
+kwaku-agyabeng,Kwaku Agyabeng,Midfielder,Sporting Kansas City ,MLS,20,40.0,40.0,40.0,16,7,27.0,5.77,33.75,0,0,0,2,11,3,0,9,0.4,1.0
+anibal-cesis-godoy,Aníbal Godoy,Midfielder,San Diego FC,MLS,36,43.0,47.0,87.5,35,25,49.3,11.86,35.14,0,1,4,6,21,2,1,5,0.56,1.36
+jesus-daniel-bueno-anez,Jesús Bueno,Midfielder,Philadelphia Union,MLS,27,47.0,46.0,80.0,32,13,33.2,9.38,36.56,0,1,2,6,21,2,0,8,1.19,3.58
+alhassan-yusuf,Alhassan Yusuf,Midfielder,New England Revolution,MLS,26,56.0,54.0,67.5,27,22,69.5,12.95,40.74,0,4,3,10,13,4,0,6,1.19,3.04
+armindo-sieb,Armindo Sieb,Forward,Los Angeles FC,MLS,23,37.0,37.0,52.5,21,3,11.6,-0.7,37.38,0,0,2,0,8,11,0,19,2.41,16.49
+marco-pasalic,Marco Pašalić,Forward,Orlando City SC,MLS,26,46.0,45.0,75.0,30,19,37.4,7.6,37.67,0,3,3,2,17,4,0,11,0.56,3.99
+leonardo-jose-caetano-barroso,Leonardo Barroso,Defender,Chicago Fire FC,MLS,21,39.0,38.0,37.5,15,13,27.4,3.41,35.0,0,0,0,2,10,3,1,24,0.46,1.0
+owen-wolff,Owen Wolff,Midfielder,Sporting Kansas City ,MLS,21,42.0,50.0,42.5,17,10,25.4,9.09,40.88,0,5,2,1,14,0,0,18,1.11,6.61
+pavel-bucha,Pavel Bucha,Midfielder,FC Cincinnati,MLS,28,50.0,51.0,92.5,37,35,78.6,7.35,43.38,0,4,8,2,15,7,0,4,1.28,13.49
+ahmed-qasem,Ahmed Qasem,Forward,Nashville SC,MLS,23,40.0,40.0,82.5,33,17,37.0,1.58,38.33,0,1,3,0,17,12,0,7,1.28,1.43
+markus-cimermancic,Markus Cimermancic,Midfielder,Toronto FC,MLS,21,46.0,43.0,30.0,12,9,24.8,6.24,37.08,0,0,1,3,7,4,0,25,0.87,2.95
+niklas-dorsch,Niklas Dorsch,Midfielder,Toronto FC,MLS,28,53.0,48.0,87.5,35,30,64.9,10.67,37.43,0,2,6,3,17,8,0,4,0.96,8.62
+georgi-minoungou,Georgi Minoungou,Forward,Colorado Rapids,MLS,24,41.0,42.0,80.0,32,16,43.0,5.14,36.56,0,0,2,2,24,2,0,10,0.56,1.41
+josef-alexander-martinez,Josef Martínez,Forward,Columbus Crew,MLS,33,41.0,41.0,52.5,21,9,29.3,0.9,39.76,0,0,7,0,13,9,0,11,1.02,3.26
+aiden-hezarkhani,Aiden Hezarkhani,Forward,Real Salt Lake,MLS,19,39.0,41.0,60.0,24,12,27.1,3.87,37.08,0,0,2,0,17,5,0,16,0.71,2.79
+julian-hall-2008-03-24,Julian Hall,Forward,New York Red Bulls,MLS,18,43.0,48.0,72.5,29,26,79.8,3.05,45.0,0,2,9,1,17,10,0,1,1.9,8.93
+alejandro-alvarado-jr,Alejandro Alvarado,Forward,San Diego FC,MLS,23,47.0,47.0,45.0,18,6,15.3,9.69,37.78,1,1,1,1,11,3,0,22,0.91,6.7
+carlos-miguel-harvey-cesneros,Carlos Harvey,Midfielder,Minnesota United,MLS,26,46.0,43.0,62.5,25,12,33.0,6.53,36.0,0,1,2,2,9,9,0,17,0.38,1.59
+noah-allen,Noah Allen,Defender,Chicago Fire FC,MLS,22,38.0,46.0,87.5,35,26,55.9,6.08,39.86,0,3,5,2,16,9,0,5,0.88,1.49
+onni-valakari,Onni Valakari,Midfielder,San Diego FC,MLS,27,44.0,51.0,95.0,38,34,69.1,9.96,41.18,0,5,6,6,15,6,0,2,1.04,3.13
+andrew-gutman,Andrew Gutman,Defender,Chicago Fire FC,MLS,29,46.0,47.0,77.5,31,27,69.1,4.24,42.26,0,4,7,2,11,9,1,6,0.55,2.55
+marcelo-andres-herrera-mansilla,Marcelo Andrés Herrera,Defender,Columbus Crew,MLS,27,37.0,48.0,60.0,24,15,39.5,7.82,40.21,0,3,6,2,8,9,0,12,0.72,0.8
+matthew-longstaff,Matthew Longstaff,Midfielder,CF Montreal,MLS,26,42.0,48.0,70.0,28,25,76.2,7.47,40.71,0,3,4,1,24,6,0,2,0.48,1.32
+matheus-pereira-de-souza,Matheus Pereira,Defender,Toronto FC,MLS,25,41.0,42.0,32.5,13,6,17.2,6.93,35.0,0,0,2,3,5,4,0,26,0.47,1.42
+sergi-palencia-hurtado,Sergi Palencia,Defender,Los Angeles FC,MLS,30,39.0,46.0,50.0,20,19,38.2,9.14,36.5,0,3,1,2,7,6,1,20,0.8,1.47
+cheikh-tidiane-sabaly,Cheikh Sabaly,Forward,Vancouver Whitecaps FC,MLS,27,40.0,43.0,60.0,24,13,26.2,4.95,38.13,0,0,3,2,16,3,0,16,0.96,2.2
+myrto-uzuni,Myrto Uzuni,Forward,Austin FC,MLS,31,56.0,49.0,77.5,31,28,64.0,5.6,43.71,0,2,8,1,17,3,0,9,1.52,3.29
+morgan-guilavogui,Morgan Guilavogui,Forward,Real Salt Lake,MLS,28,55.0,52.0,75.0,30,19,43.9,10.5,41.0,0,6,3,3,15,3,0,10,1.51,4.23
+tristan-muyumba-nkita,Tristan Muyumba,Midfielder,Atlanta United,MLS,29,53.0,51.0,72.5,29,23,68.3,12.64,38.62,0,3,5,4,21,6,0,1,0.56,7.86
+luis-otavio-costa-de-aquino,Luis Otávio,Midfielder,Orlando City SC,MLS,19,48.0,43.0,70.0,28,17,36.4,8.35,34.46,1,0,1,8,10,6,2,12,0.78,5.48
+kobe-franklin,Kobe Franklin,Defender,Toronto FC,MLS,23,47.0,44.0,55.0,22,17,46.6,3.8,38.64,0,0,8,3,11,6,1,11,0.56,1.1
+david-doudera,David Douděra,Midfielder,FC Cincinnati,MLS,28,52.0,52.0,20.0,8,6,37.8,9.14,42.5,0,4,3,0,13,2,2,16,2.61,4.36
+aaron-long,Aaron Long,Defender,Los Angeles FC,MLS,33,51.0,51.0,40.0,16,15,29.4,14.53,36.88,0,3,1,5,3,4,0,24,1.11,5.99
+hannes-wolf,Hannes Wolf,Forward,New York City FC,MLS,27,39.0,46.0,77.5,31,21,51.2,4.99,40.48,0,3,4,3,20,3,0,7,0.48,1.11
+jeevan-singh-badwal,Jeevan Badwal,Midfielder,Vancouver Whitecaps FC,MLS,20,51.0,52.0,80.0,32,22,48.7,12.41,39.22,0,5,3,7,14,2,0,9,0.87,3.15
+facundo-mura,Facundo Mura,Defender,Inter Miami CF,MLS,27,36.0,43.0,87.5,35,20,51.7,7.96,35.0,0,1,3,6,17,8,0,5,1.18,3.89
+eduard-andres-atuesta-velasco,Eduard Atuesta,Midfielder,Orlando City SC,MLS,29,48.0,43.0,62.5,25,20,50.4,6.01,36.8,0,2,2,2,18,7,0,9,0.46,1.29
+jon-gallagher,Jon Gallagher,Defender,Austin FC,MLS,30,40.0,39.0,87.5,35,33,76.0,2.39,36.57,0,1,4,4,11,15,4,1,0.62,2.09
+luca-de-la-torre,Luca de la Torre,Midfielder,Charlotte FC,MLS,28,40.0,41.0,77.5,31,12,29.5,4.2,36.61,0,0,2,2,21,6,0,9,0.48,1.86
+ki-hee-kim,Kim Kee-Hee,Defender,Seattle Sounders FC,MLS,37,42.0,42.0,25.0,10,5,12.6,6.68,35.0,0,0,1,1,7,1,1,29,0.45,1.08
+robin-lod,Robin Lod,Midfielder,Chicago Fire FC,MLS,33,42.0,44.0,95.0,38,24,56.5,3.01,40.53,0,1,7,2,18,10,1,1,1.9,3.2
+benjamin-kikanovic,Benji Kikanović,Forward,San Jose Earthquakes,MLS,26,38.0,41.0,60.0,24,23,65.4,6.13,35.0,0,0,1,4,19,4,0,12,1.13,3.99
+dag-ur-dan-thor-halls-son,Dagur Dan      Thórhallson,Midfielder,San Diego FC,MLS,26,43.0,42.0,55.0,22,14,33.6,3.63,38.41,0,1,2,4,8,8,1,16,1.0,2.67
+colin-guske,Colin Guske,Midfielder,Real Salt Lake,MLS,19,40.0,37.0,35.0,14,5,17.6,3.01,33.57,0,0,0,1,11,2,1,25,0.64,2.85
+tanner-beason,Tanner Beason,Defender,New England Revolution,MLS,29,45.0,45.0,22.5,9,3,11.2,9.82,35.0,0,0,2,3,9,4,0,22,1.02,0.99
+ajani-fortune,Ajani Fortune,Midfielder,Atlanta United,MLS,23,47.0,46.0,32.5,13,7,18.9,6.71,38.85,0,1,1,1,7,3,0,27,0.39,2.46
+ian-pilcher,Ian Pilcher,Defender,San Diego FC,MLS,23,33.0,37.0,52.5,21,10,20.8,0.35,36.19,0,1,0,1,9,9,1,19,0.46,0.99
+cooper-wyatt-sanchez,Cooper Sanchez,Midfielder,Atlanta United,MLS,18,39.0,38.0,60.0,24,22,58.8,3.0,35.21,0,0,1,2,11,11,1,14,0.54,1.89
+tarun-karumanchi,Tarun Karumanchi,Midfielder,Columbus Crew,MLS,23,47.0,48.0,35.0,14,11,61.1,9.09,38.57,0,0,2,4,6,2,0,1,,
+snyder-brunell,Snyder Brunell,Midfielder,Seattle Sounders FC,MLS,19,43.0,41.0,77.5,31,22,51.9,6.27,35.16,0,0,1,6,19,7,0,7,1.19,1.96
+wilder-jose-cartagena-mendoza,Wilder Cartagena,Midfielder,Orlando City SC,MLS,32,40.0,38.0,35.0,14,4,11.2,3.14,35.0,0,0,0,0,11,3,0,26,0.46,0.97
+jorge-alastuey-aperte,Jorge Alastuey,Midfielder,Austin FC,MLS,23,41.0,40.0,30.0,12,7,21.9,4.9,35.0,0,0,1,0,7,4,0,15,1.36,5.79
+dante-sealy,Dante Sealy,Forward,CF Montreal,MLS,23,40.0,45.0,75.0,30,23,52.2,5.79,39.5,0,2,5,1,23,6,0,3,0.32,1.02
+emeka-eneli,Emeka Eneli,Midfielder,Real Salt Lake,MLS,26,39.0,39.0,15.0,6,1,5.3,3.67,35.0,0,0,1,1,6,4,0,28,0.52,1.81
+bernardo-rhein-goncalves,Bernardo Rhein,Forward,Orlando City SC,MLS,19,41.0,40.0,27.5,11,7,17.3,5.24,35.0,0,0,0,1,7,3,0,29,,
+luca-moisa,Luca Moisa,Midfielder,Real Salt Lake,MLS,18,45.0,45.0,15.0,6,6,10.9,10.13,35.0,0,0,1,1,3,1,0,34,1.04,1.2
+nick-fernandez,Nick Fernandez,Midfielder,San Jose Earthquakes,MLS,24,43.0,43.0,47.5,19,7,20.7,3.77,38.95,0,0,3,1,11,4,0,21,1.02,2.41
+kyle-smith-1992-01-09,Kyle Smith,Defender,FC Cincinnati,MLS,34,46.0,40.0,67.5,27,16,42.8,5.45,34.44,1,0,2,2,16,6,2,11,0.59,0.84
+hosei-kijima,Hosei Kijima,Midfielder,DC United,MLS,24,37.0,37.0,25.0,10,1,5.4,2.34,35.0,0,0,0,1,13,6,0,20,0.48,1.46
+brandt-bronico,Brandt Bronico,Midfielder,Charlotte FC,MLS,31,42.0,41.0,75.0,30,15,40.7,4.22,36.67,0,0,4,4,16,11,0,5,0.38,1.63
+deandre-yedlin,DeAndre Yedlin,Defender,Real Salt Lake,MLS,33,37.0,43.0,65.0,26,24,59.5,6.3,37.12,0,2,4,3,10,7,5,9,0.56,1.39
+jonathan-sirois,Jonathan Sirois,Goalkeeper,FC Dallas,MLS,25,53.0,54.0,32.5,13,12,36.0,11.48,42.69,0,3,2,2,5,2,1,25,1.19,20.86
+taylor-booth,Taylor Booth,Forward,Real Salt Lake,MLS,25,36.0,36.0,15.0,6,0,2.0,0.93,35.0,0,0,0,0,2,4,0,34,1.28,5.96
+dennis-nelich,Dennis Nelich,Forward,New York Red Bulls,MLS,18,39.0,39.0,5.0,2,1,18.2,3.95,35.0,0,0,0,0,2,0,0,3,,
+lukas-macnaughton,Lukas MacNaughton,Defender,St. Louis City SC,MLS,31,46.0,46.0,62.5,25,12,42.6,7.84,38.4,0,3,2,3,12,7,0,13,0.69,3.28
+jackson-hopkins,Jackson Hopkins,Midfielder,DC United,MLS,22,42.0,41.0,67.5,27,24,65.9,4.86,36.48,0,2,3,4,17,13,0,1,0.48,1.42
+sang-bin-jeong,Jeong Sang-Bin,Forward,St. Louis City SC,MLS,24,40.0,43.0,55.0,22,17,39.8,4.75,38.41,0,0,5,1,15,7,0,12,0.48,1.21
+brandan-craig,Brandan Craig,Midfielder,CF Montreal,MLS,22,43.0,46.0,37.5,15,6,27.0,8.92,36.67,0,0,4,6,10,6,0,14,0.44,1.35
+joshua-liam-wynder,Joshua Wynder,Defender,New England Revolution,MLS,21,39.0,39.0,5.0,2,0,0.6,4.43,35.0,0,0,0,0,2,0,0,38,,
+peter-kingston,Peter Kingston,Midfielder,Seattle Sounders FC,MLS,25,39.0,40.0,65.0,26,11,33.2,3.69,36.35,0,1,1,0,16,8,0,7,,
+stefan-cleveland,Stefan Cleveland,Goalkeeper,Sporting Kansas City ,MLS,32,36.0,35.0,40.0,16,16,46.5,2.66,32.5,0,0,1,3,4,5,3,24,1.19,7.61
+matt-miazga,Matt Miazga,Defender,New York City FC,MLS,31,41.0,39.0,42.5,17,14,31.2,3.17,35.59,0,1,2,1,6,6,2,22,0.58,3.42
+victor-loturi,Victor Loturi,Midfielder,CF Montreal,MLS,25,42.0,44.0,70.0,28,25,76.8,7.24,36.79,0,0,5,8,18,8,0,1,0.46,1.77
+kevin-o-toole,Kevin O'Toole,Defender,New York City FC,MLS,27,35.0,39.0,72.5,29,22,51.4,3.57,35.17,0,0,2,3,11,12,1,11,1.12,2.31
+vitor-costa-de-brito,Vítor Costa,Defender,San Jose Earthquakes,MLS,32,35.0,35.0,30.0,12,3,14.2,1.83,33.33,0,0,2,1,9,6,1,21,0.93,0.94
+owen-anderson,Owen Anderson,Midfielder,Real Salt Lake,MLS,19,39.0,39.0,2.5,1,0,0.0,3.5,35.0,0,0,0,0,1,0,0,39,0.62,1.09
+nathan-ordaz,Nathan Ordaz,Forward,DC United,MLS,22,41.0,42.0,77.5,31,12,32.3,3.06,39.03,0,0,5,1,19,5,0,10,0.92,3.4
+jackson-ragen,Jackson Ragen,Defender,Seattle Sounders FC,MLS,27,44.0,56.0,75.0,30,28,68.3,20.63,35.5,0,4,8,10,6,3,1,8,0.96,6.28
+tyrese-spicer,Tyrese Spicer,Forward,Orlando City SC,MLS,25,49.0,51.0,77.5,31,13,36.5,5.97,45.16,0,3,11,1,15,2,1,7,0.83,10.87
+brian-anunga,Tah Brian Anunga,Midfielder,FC Cincinnati,MLS,30,39.0,40.0,62.5,25,8,22.5,5.11,35.2,0,0,2,2,15,6,1,14,1.04,1.61
+tom-barlow,Tom Barlow,Forward,FC Cincinnati,MLS,31,36.0,43.0,87.5,35,13,35.7,1.29,41.29,0,1,7,0,18,9,0,5,0.48,3.01
+ayoub-jabbari,Ayoub Jabbari,Forward,FC Cincinnati,MLS,26,41.0,42.0,80.0,32,6,18.9,2.81,39.22,0,0,5,1,19,8,0,7,0.62,2.88
+zakaria-taifi,Zakaria Taifi,Midfielder,Orlando City SC,MLS,20,41.0,42.0,20.0,8,5,26.4,3.1,38.41,0,1,2,0,12,8,0,17,0.48,4.63
+paul-rothrock,Paul Rothrock,Forward,Seattle Sounders FC,MLS,27,44.0,50.0,90.0,36,27,70.0,5.48,44.03,0,3,10,1,14,8,2,2,0.56,2.96
+emil-forsberg,Emil Forsberg,Midfielder,New York Red Bulls,MLS,34,50.0,51.0,70.0,28,24,65.0,8.98,42.32,0,2,11,0,22,2,0,3,0.72,7.41
+carlos-joaquim-dos-santos,CJ Dos Santos ,Goalkeeper,San Diego FC,MLS,26,53.0,50.0,35.0,14,14,31.2,11.61,38.57,0,3,2,3,2,3,1,26,2.45,24.16
+josh-bauer,Josh Bauer,Defender,Nashville SC,MLS,28,38.0,46.0,62.5,25,12,25.1,7.86,38.0,0,4,0,0,18,3,0,15,1.37,3.04
+ryan-sailor,Ryan Sailor,Defender,Seattle Sounders FC,MLS,27,40.0,40.0,10.0,4,2,4.3,5.44,35.0,0,0,0,1,2,1,0,36,1.5,2.63
+alex-harris-2005-02-16,Alexander Harris,Forward,Colorado Rapids,MLS,21,38.0,38.0,20.0,8,1,5.7,2.73,35.0,0,0,0,0,10,3,0,27,0.53,0.84
+ousseni-bouda,Ousseni Bouda,Forward,San Jose Earthquakes,MLS,26,44.0,48.0,77.5,31,26,66.7,7.63,40.16,0,1,7,4,15,6,0,7,1.18,7.83
+keaton-alexander-parks,Keaton Parks,Midfielder,New York City FC,MLS,29,37.0,40.0,47.5,19,14,30.4,4.64,35.79,0,1,0,1,13,3,1,21,0.48,1.94
+robin-jansson,Robin Jansson,Defender,Orlando City SC,MLS,34,39.0,40.0,62.5,25,25,62.4,5.24,34.4,0,0,4,3,14,7,2,10,2.14,1.19
+jack-jasinski,Jack Jasinski,Defender,San Jose Earthquakes,MLS,22,34.0,36.0,35.0,14,7,27.0,-0.8,36.79,0,0,2,0,5,6,1,12,,
+owen-gene,Owen Gene,Midfielder,Minnesota United,MLS,23,44.0,44.0,80.0,32,20,50.6,7.69,36.56,0,0,2,5,24,4,0,5,0.47,3.64
+lucas-agustin-sanabria-magole,Lucas Sanabria,Midfielder,LA Galaxy,MLS,22,44.0,46.0,77.5,31,19,45.2,8.1,37.58,0,0,8,2,19,3,0,8,0.8,5.23
+nouhou-tolo,Nouhou Tolo,Defender,Seattle Sounders FC,MLS,29,41.0,49.0,97.5,39,38,83.2,13.41,35.77,1,3,7,5,14,7,1,2,1.1,2.54
+laurtaro-giaccone,Lautaro Giaccone,Midfielder,Columbus Crew,MLS,25,38.0,42.0,60.0,24,7,20.9,4.74,37.08,0,1,1,1,15,6,0,16,0.95,8.12
+duncan-mcguire,Duncan McGuire,Forward,Houston Dynamo FC,MLS,25,36.0,41.0,70.0,28,12,39.2,2.19,38.57,0,0,5,0,15,12,0,8,2.16,5.01
+zane-monlouis,Zane Monlouis,Defender,Toronto FC,MLS,22,37.0,41.0,47.5,19,11,35.9,5.54,35.0,0,0,0,4,7,8,0,21,0.47,1.39
+moises-castillo-mosquera,Moisés Mosquera,Defender,Sporting Kansas City ,MLS,25,37.0,42.0,65.0,26,25,53.2,9.72,31.92,0,0,1,7,11,5,2,14,0.95,4.82
+aiden-o-neill,Aiden O'Neill,Midfielder,New York City FC,MLS,28,42.0,47.0,62.5,25,22,48.3,11.44,35.2,0,0,2,8,12,2,0,16,0.48,2.55
+jaziel-orozco,Jaziel Orozco,Defender,St. Louis City SC,MLS,22,42.0,45.0,47.5,19,15,42.8,12.25,32.89,1,1,2,4,9,6,3,14,0.56,1.24
+jefferson-abel-diaz-beleno,Jefferson Díaz,Defender,Minnesota United,MLS,25,36.0,46.0,82.5,33,29,69.1,8.17,37.42,0,2,6,4,15,8,1,4,0.89,2.29
+robert-jonathan-dean-jr,Jonathan Dean,Defender,Chicago Fire FC,MLS,29,36.0,43.0,77.5,31,24,58.3,7.8,36.13,1,1,5,3,7,16,1,6,0.4,3.16
+edvard-sandvik-tagseth,Edvard Tagseth,Midfielder,Nashville SC,MLS,25,42.0,45.0,77.5,31,22,48.3,8.37,36.61,0,1,3,5,16,6,0,9,1.4,2.16
+tiago-souza-de-jesus-carvalho,Tiago,Forward,Orlando City SC,MLS,21,45.0,43.0,77.5,31,16,33.8,2.6,40.0,0,0,7,0,17,6,1,9,0.39,0.71
+david-ruiz-2004-02-08,David Ruíz,Midfielder,New York Red Bulls,MLS,22,38.0,38.0,37.5,15,3,8.8,1.04,36.67,0,0,1,0,7,6,0,26,0.75,3.91
+juan-jose-arias,Juan Arias,Defender,Real Salt Lake,MLS,22,45.0,44.0,27.5,11,9,18.9,6.25,37.27,0,1,1,1,6,2,0,29,0.48,4.23
+tyrell-malacia,Tyrell Malacia,Defender,FC Cincinnati,MLS,27,36.0,36.0,7.5,3,0,0.5,0.53,35.0,0,0,0,0,3,1,0,36,0.88,4.14
+ezekiel-kwame-alladoh,Ezekiel Alladoh,Forward,Philadelphia Union,MLS,21,36.0,40.0,72.5,29,12,34.8,2.24,38.1,0,1,3,0,13,12,0,4,0.77,1.76
+igor-jesus-lima,Igor Jesus,Midfielder,Los Angeles FC,MLS,23,37.0,37.0,5.0,2,1,1.9,2.15,35.0,0,0,0,0,2,0,0,38,1.04,3.4
+luke-brennan-2005-02-24,Luke Brennan,Midfielder,Atlanta United,MLS,21,34.0,33.0,42.5,17,4,15.5,-1.74,35.0,0,0,2,1,5,19,0,13,0.54,1.96
+ran-binyamin,Ran Binyamin,Midfielder,FC Dallas,MLS,22,37.0,42.0,62.5,25,10,30.5,2.87,39.0,0,1,3,1,14,5,1,4,1.15,1.83
+ian-harkes,Ian Harkes,Midfielder,San Jose Earthquakes,MLS,31,40.0,41.0,67.5,27,7,35.9,5.86,35.0,0,1,3,3,19,10,0,4,0.93,1.35
+jamal-thiare,Jamal Thiaré,Forward,Columbus Crew,MLS,33,38.0,37.0,45.0,18,6,18.6,0.26,36.39,1,1,1,0,12,7,0,18,0.72,1.4
+joseph-paintsil,Joseph Paintsil,Forward,LA Galaxy,MLS,28,55.0,55.0,65.0,26,23,53.0,9.5,45.0,0,6,5,4,8,4,0,13,1.37,12.2
+mykhi-joyner,Mykhi Joyner,Midfielder,St. Louis City SC,MLS,20,35.0,35.0,20.0,8,2,7.7,0.0,35.0,0,0,1,0,6,6,1,26,0.8,2.1
+cesar-ruvalcaba-perez,Cesar Ruvalcaba,Defender,Columbus Crew,MLS,25,49.0,47.0,30.0,12,6,16.8,7.56,39.17,0,1,1,1,8,2,0,27,0.72,3.71
+kristian-fletcher,Kristian Fletcher,Forward,FC Cincinnati,MLS,21,36.0,36.0,5.0,2,0,0.5,0.9,35.0,0,0,0,0,2,0,0,38,2.07,1.96
+matthew-arana-ibarra,Matthew Arana,Midfielder,Houston Dynamo FC,MLS,16,37.0,37.0,12.5,5,0,1.7,1.68,35.0,0,0,0,0,3,2,0,21,,
+ian-smith-2002-07-16,Ian Smith,Defender,Portland Timbers,MLS,24,40.0,39.0,65.0,26,6,23.2,3.47,35.96,0,1,1,2,12,11,1,12,1.01,1.26
+john-nelson,John Nelson,Defender,LA Galaxy,MLS,28,37.0,41.0,82.5,33,22,57.2,7.06,33.79,0,2,2,6,14,9,3,4,0.88,2.9
+cody-william-baker,Cody Baker,Defender,New England Revolution,MLS,22,38.0,38.0,25.0,10,1,6.6,2.84,35.0,0,0,0,1,6,4,0,29,1.6,2.38
+julio-joao-ortiz-landazuri,Julio Ortiz,Midfielder,Portland Timbers,MLS,30,38.0,41.0,55.0,22,8,24.7,4.59,36.14,0,0,2,1,17,4,0,16,0.62,1.43
+william-sands,Will Sands,Defender,New England Revolution,MLS,26,39.0,43.0,72.5,29,29,87.1,8.02,35.34,0,1,4,6,13,9,2,5,0.91,1.38
+shakur-mohammed,Shakur Mohammed,Midfielder,Nashville SC,MLS,23,37.0,42.0,55.0,22,7,16.4,2.44,39.55,0,1,3,0,10,8,0,18,1.12,3.27
+german-berterame,Germán Berterame,Forward,Inter Miami CF,MLS,27,52.0,50.0,82.5,33,30,64.1,4.08,46.21,0,2,14,1,7,10,0,6,1.35,7.38
+johan-gomez,Johan Gómez,Forward,Chicago Fire FC,MLS,25,42.0,43.0,75.0,30,23,57.5,4.36,38.33,0,0,4,2,20,9,0,5,0.64,5.71
+benjamin-kuscevic-jaramillo,Benjamín Kuščević,Defender,Toronto FC,MLS,30,45.0,40.0,45.0,18,17,36.4,3.57,36.67,0,1,1,0,8,6,1,23,0.83,3.53
+wikelman-jose-carmona-torres,Wikelman Carmona,Midfielder,CF Montreal,MLS,23,48.0,49.0,50.0,20,13,37.8,7.43,41.75,0,3,3,0,16,8,0,10,0.45,0.91
+mateo-silvetti,Mateo Silvetti,Forward,Inter Miami CF,MLS,20,50.0,50.0,57.5,23,14,32.8,4.4,45.22,0,2,7,0,9,5,0,17,1.36,6.88
+aliyu-ibrahim,Aliyu Ibrahim,Forward,Houston Dynamo FC,MLS,24,37.0,39.0,60.0,24,4,18.7,1.64,37.29,0,0,3,0,17,9,1,10,1.97,1.64
+isaiah-parente,Isaiah Parente,Midfielder,LA Galaxy,MLS,26,37.0,38.0,35.0,14,3,8.9,3.33,35.0,0,0,0,1,10,5,1,23,0.96,2.5
+felipe-de-andrade-vieira,Felipe Andrade,Defender,Houston Dynamo FC,MLS,24,43.0,44.0,57.5,23,22,68.7,7.62,35.87,0,2,4,8,12,6,2,6,0.56,0.97
+damion-lamar-downs,Damion Downs,Forward,St. Louis City SC,MLS,22,35.0,35.0,50.0,20,6,15.6,-0.31,35.0,0,0,0,0,10,10,0,20,1.16,1.71
+edson-carli,Edson Carli,Midfielder,Seattle Sounders FC,MLS,19,36.0,36.0,7.5,3,2,15.8,0.8,35.0,0,0,0,0,2,1,0,7,,
+joshua-atencio,Josh Atencio,Midfielder,Colorado Rapids,MLS,24,38.0,40.0,60.0,24,17,50.7,4.92,35.21,0,0,1,4,13,9,0,13,0.47,1.21
+mihail-gherasimencov,Mihail Gherasimencov,Defender,Vancouver Whitecaps FC,MLS,21,40.0,42.0,27.5,11,5,16.5,4.67,37.27,0,0,1,2,5,3,0,29,1.63,3.12
+jared-stroud,Jared Stroud,Midfielder,DC United,MLS,30,41.0,39.0,50.0,20,6,22.2,2.79,36.25,0,0,1,0,20,8,0,11,0.46,2.46
+ryan-raposo,Ryan Raposo,Midfielder,Los Angeles FC,MLS,27,42.0,41.0,42.5,17,5,14.7,4.85,36.47,0,1,0,0,12,4,0,23,0.95,3.1
+fabrice-picault,Fafà Picault,Midfielder,Atlanta United,MLS,35,42.0,42.0,50.0,20,8,20.6,1.12,40.0,0,2,2,0,6,10,0,20,0.46,1.34
+japhet-sery,Japhet Sery Larsen,Defender,Philadelphia Union,MLS,26,40.0,42.0,57.5,23,18,39.3,4.94,36.74,0,1,1,5,8,8,0,17,1.11,0.98
+alec-smir,Alec Smir,Goalkeeper,Minnesota United,MLS,27,46.0,46.0,10.0,4,3,8.8,5.08,41.25,0,0,1,0,2,1,0,36,0.74,5.8
+novak-micovic,Novak Mićović,Goalkeeper,LA Galaxy,MLS,24,40.0,40.0,25.0,10,9,22.4,2.38,37.5,0,0,1,2,5,4,0,28,1.05,3.47
+hassani-dotson,Hassani Dotson,Midfielder,Seattle Sounders FC,MLS,29,45.0,41.0,65.0,26,11,27.2,5.37,35.96,0,1,1,0,16,8,0,14,0.71,2.85
+mauricio-gonzalez-2004-09-15,Mauricio Gonzalez,Forward,Minnesota United,MLS,22,41.0,42.0,62.5,25,9,22.4,1.71,40.0,0,0,5,0,14,6,0,15,0.46,1.57
+ilie-sanchez-farres,Ilie Sánchez,Midfielder,Austin FC,MLS,35,36.0,38.0,70.0,28,23,47.5,2.78,35.18,0,1,0,0,19,9,1,10,0.47,0.83
+daniel-lovitz,Daniel Lovitz,Defender,Nashville SC,MLS,35,41.0,39.0,87.5,35,21,50.0,3.85,35.14,0,1,1,4,16,12,1,5,0.88,2.95
+david-brekalo,David Brekalo,Defender,Orlando City SC,MLS,27,42.0,42.0,77.5,31,29,63.9,3.97,37.58,0,2,2,8,9,9,2,8,1.09,3.65
+duane-holmes,Duane Holmes,Midfielder,Houston Dynamo FC,MLS,31,35.0,37.0,45.0,18,9,25.2,3.78,32.78,0,0,1,2,16,7,2,12,0.71,0.65
+james-pantemis,James Pantemis,Goalkeeper,Portland Timbers,MLS,29,42.0,47.0,85.0,34,34,80.3,10.52,36.03,0,2,6,6,15,6,1,4,1.43,21.94
+sayd-abu-farhi,Sayed Abu Farhi,Forward,Colorado Rapids,MLS,20,40.0,40.0,20.0,8,5,32.7,1.48,38.13,0,0,1,0,3,4,0,31,0.96,15.89
+tyler-boyd,Tyler Boyd,Forward,Los Angeles FC,MLS,31,39.0,40.0,70.0,28,8,21.4,2.73,37.68,0,0,3,1,14,10,0,12,1.5,5.09
+jayden-reid-2001-08-29,Jayden Reid,Defender,Sporting Kansas City ,MLS,25,39.0,38.0,45.0,18,11,36.9,1.7,36.39,0,0,1,2,7,9,1,20,0.48,1.23
+marcus-ingvartsen,Marcus Ingvartsen,Forward,San Diego FC,MLS,30,41.0,46.0,85.0,34,23,49.0,3.38,42.65,0,4,6,0,12,11,1,6,0.48,1.48
+jonathan-osorio,Jonathan Osorio,Midfielder,Toronto FC,MLS,34,41.0,47.0,65.0,26,23,50.1,9.58,37.88,0,1,8,3,11,5,0,12,0.39,0.71
+nickseon-gomis,Nickseon Gomis,Defender,Toronto FC,MLS,24,37.0,37.0,15.0,6,1,5.7,5.36,31.67,0,0,0,0,5,1,0,34,0.47,1.75
+mauricio-pineda,Mauricio Pineda,Defender,Chicago Fire FC,MLS,28,34.0,38.0,65.0,26,8,26.0,3.03,35.19,0,0,2,1,13,9,1,14,0.43,2.21
+matias-galarza-fonda,Matías Galarza Fonda,Midfielder,Inter Miami CF,MLS,24,49.0,44.0,47.5,19,13,31.7,7.3,36.58,0,0,4,1,9,4,1,21,0.97,4.39
+ramiro-moschen-benetti,Ramiro,Midfielder,FC Dallas,MLS,33,45.0,43.0,75.0,30,26,60.2,4.33,38.17,0,1,4,1,17,10,1,6,0.56,2.97
+alex-muyl,Alex Muyl,Midfielder,Nashville SC,MLS,30,42.0,41.0,85.0,34,19,39.6,4.15,36.47,0,0,3,1,22,8,0,6,1.42,2.35
+rafael-cabral-barbosa,Rafael Cabral,Goalkeeper,Real Salt Lake,MLS,36,43.0,47.0,82.5,33,33,87.3,6.85,39.7,0,5,3,4,18,7,2,1,1.75,7.9
+archie-stuart-wayne-goodwin,Archie Goodwin,Forward,Charlotte FC,MLS,21,36.0,38.0,80.0,32,5,17.3,-1.19,38.44,0,1,3,0,13,18,0,5,0.46,3.18
+jack-maher,Jack Maher,Defender,Nashville SC,MLS,26,51.0,53.0,40.0,16,13,29.6,13.47,39.69,0,2,4,4,2,3,1,24,1.28,1.56
+jacob-davis,Jake Davis,Midfielder,Sporting Kansas City ,MLS,24,46.0,38.0,57.5,23,19,60.9,-1.04,38.91,0,0,5,5,8,10,6,6,0.63,1.63
+sean-nealis,Sean Nealis,Defender,DC United,MLS,29,40.0,39.0,27.5,11,5,13.9,4.36,35.0,0,0,2,2,9,5,0,22,0.48,1.31
+nicholas-markanich,Nicholas Markanich,Forward,Houston Dynamo FC,MLS,26,32.0,33.0,35.0,14,2,5.2,-1.06,33.57,0,0,0,0,5,8,1,26,0.87,0.68
+nectarios-triantis,Nectarios Triantis,Defender,Minnesota United,MLS,23,39.0,43.0,77.5,31,23,50.6,5.99,36.94,0,2,5,5,12,6,1,9,0.54,2.08
+samuel-vines,Sam Vines,Defender,San Diego FC,MLS,27,38.0,38.0,17.5,7,2,7.7,3.3,35.0,0,0,1,1,12,5,0,21,1.58,4.41
+roman-burki,Roman Bürki,Goalkeeper,St. Louis City SC,MLS,35,40.0,44.0,67.5,27,27,83.8,5.18,38.7,0,1,5,2,24,5,1,2,1.83,11.48
+daniel-pinter-2007-06-06,Dániel Pintér,Forward,Inter Miami CF,MLS,19,42.0,41.0,40.0,16,6,14.2,2.75,38.13,0,0,2,0,8,6,0,24,1.6,3.13
+harry-toffolo,Harry Toffolo,Defender,Charlotte FC,MLS,31,48.0,50.0,45.0,18,17,39.2,11.31,39.17,0,2,4,2,8,4,0,20,0.46,2.05
+maurice-malone,Maurice Malone,Forward,Minnesota United,MLS,26,37.0,38.0,77.5,31,19,39.9,0.78,37.42,0,0,3,1,17,10,0,9,0.87,4.93
+sergi-solans-ormo,Sergi Solans,Forward,Real Salt Lake,MLS,23,46.0,48.0,67.5,27,21,63.1,1.12,46.3,0,2,9,0,6,10,0,2,2.0,3.01
+wilson-harris,Wilson Harris,Forward,New England Revolution,MLS,26,38.0,37.0,30.0,12,0,10.4,-0.24,37.08,0,0,1,0,5,6,0,0,1.15,2.63
+aziel-jackson,Aziel Jackson,Midfielder,Minnesota United,MLS,24,40.0,45.0,45.0,18,8,21.9,3.43,41.94,0,0,5,1,7,6,0,21,1.6,2.64
+devin-padelford,Devin Padelford,Defender,New York Red Bulls,MLS,23,35.0,35.0,60.0,24,9,31.2,-0.93,35.42,0,0,4,4,13,6,5,8,0.42,1.23
+seymour-garfield-reid,Seymour Reid,Forward,Sporting Kansas City ,MLS,18,35.0,35.0,45.0,18,0,4.3,-0.01,35.0,0,0,0,0,10,8,0,22,0.35,1.92
+jeremy-ebobisse,Jeremy Ebobisse,Forward,Los Angeles FC,MLS,29,33.0,35.0,47.5,19,3,11.2,0.07,35.26,0,0,1,0,10,7,1,21,1.16,2.87
+alejandro-bedoya,Alejandro Bedoya,Midfielder,Philadelphia Union,MLS,39,36.0,40.0,55.0,22,4,12.9,1.57,37.27,0,0,3,0,14,5,0,18,0.48,1.29
+luka-jovanovic-2005-05-20,Luka Jovanović,Forward,San Jose Earthquakes,MLS,21,35.0,35.0,10.0,4,2,14.4,0.25,35.0,0,0,0,0,3,1,0,7,1.44,6.3
+mijahir-ameth-jimenez-murillo,Mijahir Jiménez,Forward,New York Red Bulls,MLS,19,42.0,42.0,15.0,6,3,24.4,0.83,40.83,0,0,1,0,2,3,0,5,1.36,6.61
+michael-boxall,Michael Boxall,Defender,Minnesota United,MLS,38,40.0,40.0,72.5,29,24,56.7,3.56,36.03,0,0,3,4,8,13,1,11,0.67,2.71
+tomas-jacob,Tomás Jacob,Defender,Atlanta United,MLS,22,47.0,46.0,72.5,29,29,66.9,5.91,39.31,0,2,3,6,11,7,3,8,1.16,4.18
+darren-yapi,Darren Yapi,Forward,Colorado Rapids,MLS,21,35.0,42.0,72.5,29,15,48.1,1.76,39.66,0,1,7,1,18,12,0,1,0.4,1.2
+ian-james,Ian James,Defender,Sporting Kansas City ,MLS,18,37.0,37.0,37.5,15,11,37.8,2.59,34.0,0,0,3,0,8,6,3,20,0.48,1.24
+tyger-smalls,Tyger Smalls,Forward,Charlotte FC,MLS,24,45.0,41.0,40.0,16,1,7.3,2.56,38.75,0,1,1,0,11,4,0,23,0.69,1.49
+silvan-hefti,Silvan Hefti,Defender,DC United,MLS,28,42.0,44.0,55.0,22,22,48.9,7.08,37.27,0,1,2,4,10,5,0,18,0.47,0.88
+morrison-agyemang,Morrison Agyemang,Defender,Charlotte FC,MLS,21,49.0,52.0,55.0,22,18,58.0,13.39,37.73,0,2,5,9,11,4,1,8,0.4,6.15
+christopher-brady,Chris Brady,Goalkeeper,Chicago Fire FC,MLS,22,34.0,43.0,77.5,31,31,69.8,4.29,38.71,0,4,4,2,7,14,2,7,2.08,22.95
+duran-michael-ferree,Duran Ferree,Goalkeeper,San Diego FC,MLS,19,41.0,48.0,47.5,19,16,36.5,10.27,37.63,0,3,1,4,6,4,1,21,2.59,9.68
+sergio-reguilon-rodriguez,Reguilón,Defender,Inter Miami CF,MLS,29,34.0,40.0,40.0,16,11,26.7,2.66,36.88,0,0,4,2,2,7,2,23,0.88,4.66
+jackson-travis,Jackson Travis,Defender,Colorado Rapids,MLS,22,37.0,40.0,35.0,14,11,31.1,5.57,34.64,0,1,0,1,8,5,3,22,0.55,0.67
+griffin-yow,Griffin Yow,Forward,New England Revolution,MLS,23,37.0,39.0,70.0,28,12,29.4,2.68,36.79,0,0,2,1,18,7,0,12,0.47,1.61
+daniel-pereira,Dani Pereira,Midfielder,CF Montreal,MLS,26,42.0,47.0,55.0,22,13,37.4,8.28,38.41,0,0,3,5,12,4,0,16,1.41,3.97
+tomas-ostrak,Tomás Ostrák,Midfielder,St. Louis City SC,MLS,26,39.0,39.0,17.5,7,1,3.6,0.49,38.57,0,1,2,3,4,6,0,24,0.54,1.35
+herman-johansson,Herman Johansson,Midfielder,FC Dallas,MLS,28,34.0,38.0,70.0,28,21,51.4,1.51,36.07,0,0,2,2,10,12,2,8,0.62,1.45
+brandon-vazquez-toledo,Brandon Vazquez,Forward,Austin FC,MLS,27,37.0,38.0,47.5,19,9,25.7,1.52,36.32,0,0,1,1,8,9,0,21,0.47,4.28
+troy-elgersma,Troy Elgersma,Midfielder,LA Galaxy,MLS,22,41.0,41.0,15.0,6,0,2.5,1.93,39.17,0,0,1,0,2,3,0,17,,
+aleksa-cvetkovic,Aleksa Cvetković,Midfielder,Vancouver Whitecaps FC,MLS,21,33.0,33.0,2.5,1,0,2.0,-2.4,35.0,0,0,0,0,0,1,0,8,2.51,
+bryan-zamble,Bi Zamblé,Forward,San Diego FC,MLS,18,42.0,44.0,27.5,11,3,9.3,2.52,41.82,0,0,3,0,7,1,0,20,,
+daniel-musovski,Danny Musovski,Forward,Seattle Sounders FC,MLS,30,38.0,39.0,82.5,33,14,34.5,-0.77,39.85,0,1,6,0,9,17,0,7,0.88,2.32
+nicolas-romero,Nicolás Romero,Defender,Minnesota United,MLS,22,50.0,49.0,37.5,15,13,29.2,9.17,40.0,0,1,5,2,6,3,1,22,0.69,1.12
+sergio-henrique-santos-gomes,Sergio Santos,Forward,Atlanta United,MLS,32,36.0,36.0,20.0,8,0,3.1,0.8,35.0,0,0,0,0,6,4,0,30,0.39,0.98
+jack-skahan,Jack Skahan,Midfielder,San Jose Earthquakes,MLS,28,35.0,38.0,52.5,21,8,24.3,-1.74,39.52,0,1,3,0,5,15,0,16,1.0,0.76
+patrickson-luiggy-delgado-villa,Patrickson Delgado,Midfielder,FC Dallas,MLS,22,44.0,45.0,55.0,22,13,26.3,4.32,40.68,0,3,5,0,9,9,0,14,0.4,1.9
+noah-cobb,Noah Cobb,Defender,Colorado Rapids,MLS,21,37.0,38.0,32.5,13,3,14.2,2.83,35.0,0,0,0,0,13,5,0,22,0.62,1.9
+prince-osei-owusu,Prince Osei Owusu,Forward,CF Montreal,MLS,29,49.0,53.0,67.5,27,26,75.4,3.93,48.7,1,6,10,0,9,12,0,2,1.22,10.99
+zachary-zengue,Zachary Zengue,Midfielder,St. Louis City SC,MLS,22,32.0,32.0,2.5,1,0,0.7,-2.8,35.0,0,0,0,0,0,1,0,26,0.57,1.58
+przemyslaw-placheta,Przemysław Płacheta,Midfielder,Austin FC,MLS,28,37.0,36.0,57.5,23,8,20.2,2.06,34.13,0,0,0,1,12,9,1,17,0.8,3.86
+brendan-hines-ike,Brendan Hines-Ike,Defender,Austin FC,MLS,31,38.0,45.0,75.0,30,23,57.5,8.15,36.33,0,2,3,8,12,6,3,6,0.46,1.12
+adrian-alonso-martinez-batista,Adrián Martínez,Forward,New York City FC,MLS,27,48.0,48.0,25.0,10,8,16.8,3.65,44.5,0,1,2,0,3,4,0,30,1.49,4.3
+alexandros-katranis,Alexandros Katranis,Defender,Real Salt Lake,MLS,28,35.0,35.0,45.0,18,13,33.8,0.37,35.0,0,0,1,0,12,10,0,17,0.64,1.23
+jansen-miller,Jansen Miller,Defender,Sporting Kansas City ,MLS,24,34.0,35.0,30.0,12,7,24.3,-1.69,37.08,0,0,5,1,8,10,0,16,0.38,0.91
+jason-shokalook,Jason Shokalook,Forward,Real Salt Lake,MLS,23,33.0,33.0,30.0,12,1,3.6,-1.88,35.0,0,0,0,0,3,9,0,28,0.43,0.71
+rafael-lucas-cardoso-dos-santos,Rafael Santos,Defender,St. Louis City SC,MLS,28,40.0,42.0,47.5,19,14,42.9,2.85,38.95,0,0,5,4,5,9,0,17,0.45,2.57
+max-floriani,Max Floriani,Defender,San Jose Earthquakes,MLS,23,46.0,46.0,20.0,8,6,19.4,14.43,31.25,0,0,2,1,5,1,1,30,1.23,0.96
+obinna-nwobodo,Obinna Nwobodo,Midfielder,FC Cincinnati,MLS,29,42.0,44.0,77.5,31,18,36.1,6.68,37.74,1,2,1,3,17,6,1,9,1.04,3.71
+augustin-anello,Augustin Anello,Forward,Philadelphia Union,MLS,24,39.0,40.0,42.5,17,5,17.1,1.99,37.94,0,0,3,0,15,5,0,17,0.48,2.82
+malachi-jones,Malachi Jones,Forward,New York City FC,MLS,23,32.0,37.0,45.0,18,6,16.3,0.75,36.67,0,1,1,0,6,9,1,22,0.56,3.53
+lalas-abubakar,Lalas Abubakar,Defender,FC Dallas,MLS,31,38.0,38.0,22.5,9,6,15.1,2.57,35.56,0,0,3,0,5,4,1,27,1.07,1.11
+alvas-elvis-powell,Alvas Powell,Defender,FC Cincinnati,MLS,32,39.0,45.0,55.0,22,5,17.4,6.9,37.73,0,2,4,1,8,6,2,17,1.6,1.81
+jackson-gilman,Jackson Gilman,Defender,Toronto FC,MLS,22,41.0,41.0,27.5,11,9,42.8,7.79,33.18,0,1,1,0,3,5,1,8,,
+david-vazquez,David Vazquez,Midfielder,San Diego FC,MLS,20,45.0,43.0,60.0,24,12,28.0,0.33,42.08,0,2,4,0,7,11,0,16,0.66,1.61
+carlos-emiro-garces-torres,Carlos Garcés,Defender,LA Galaxy,MLS,24,40.0,45.0,57.5,23,13,32.2,10.23,34.78,0,2,4,4,6,3,4,17,0.72,3.78
+brayan-andres-ceballos-jimenez,Brayan Ceballos,Defender,CF Montreal,MLS,25,35.0,45.0,42.5,17,14,41.8,9.38,35.88,0,3,3,2,11,9,0,12,0.48,1.12
+eric-miller,Eric Miller,Defender,Portland Timbers,MLS,33,34.0,34.0,20.0,8,5,12.5,-1.37,35.0,0,0,0,0,4,6,0,30,0.74,2.09
+raheem-edwards,Raheem Edwards,Defender,Toronto FC,MLS,31,40.0,44.0,40.0,16,11,30.1,8.63,35.31,1,0,4,5,7,7,1,15,0.46,0.99
+nikola-markovic-2004-07-22,Nikola Marković,Defender,DC United,MLS,22,27.0,35.0,45.0,18,2,14.6,-0.53,35.28,0,1,1,0,2,13,1,7,0.48,0.72
+harbor-tarczynski-miller,Harbor Miller,Defender,LA Galaxy,MLS,19,38.0,41.0,77.5,31,19,47.6,3.95,36.77,0,2,3,2,14,12,1,6,0.88,4.9
+kamal-miller,Kamal Miller,Defender,Portland Timbers,MLS,29,42.0,48.0,85.0,34,29,63.8,12.39,35.88,0,5,5,4,6,8,3,9,0.77,4.16
+malik-henry,Malik Henry,Midfielder,Toronto FC,MLS,24,33.0,35.0,50.0,20,5,20.1,-1.58,36.25,0,0,1,0,4,18,0,17,0.4,1.41
+drake-callender,Drake Callender,Goalkeeper,Minnesota United,MLS,28,38.0,44.0,65.0,26,26,65.6,4.18,39.04,0,2,4,4,5,9,2,14,0.85,8.52
+roman-celentano,Roman Celentano,Goalkeeper,FC Cincinnati,MLS,26,36.0,44.0,77.5,31,31,71.5,4.67,38.71,0,5,4,2,7,9,4,9,2.08,21.37
+oscar-anthony-verhoeven,Oscar Verhoeven,Defender,San Diego FC,MLS,20,42.0,37.0,67.5,27,20,47.1,1.29,35.93,0,0,1,3,12,8,3,13,0.89,1.67
+kyle-duncan,Kyle Duncan,Defender,Minnesota United,MLS,29,35.0,38.0,67.5,27,23,59.6,3.04,35.0,0,4,1,2,10,9,4,10,0.47,1.57
+or-blorian,Or Blorian,Defender,Sporting Kansas City ,MLS,26,38.0,38.0,25.0,10,10,59.7,1.53,35.5,0,0,1,1,4,3,1,19,1.68,4.01
+kosi-thompson,Kosi Thompson,Defender,Colorado Rapids,MLS,23,32.0,37.0,50.0,20,15,44.1,1.09,35.75,0,1,3,2,10,9,2,13,0.48,1.08
+samuel-junqua,Sam Junqua,Defender,Real Salt Lake,MLS,29,44.0,40.0,52.5,21,11,34.5,5.33,34.29,0,0,2,3,10,9,3,13,0.64,0.89
+nick-hagglund,Nick Hagglund,Defender,FC Cincinnati,MLS,34,33.0,42.0,57.5,23,16,36.6,3.73,38.04,1,0,4,0,10,9,0,16,1.02,1.87
+zohran-ludovic-bassong,Zohran Bassong,Defender,Sporting Kansas City ,MLS,27,38.0,40.0,45.0,18,15,38.4,6.33,33.89,0,0,1,6,9,7,2,15,11.17,1.14
+dawid-bugaj,Dawid Bugaj,Defender,CF Montreal,MLS,22,40.0,39.0,52.5,21,16,49.8,4.23,35.0,0,0,4,6,15,6,1,8,0.54,1.79
+thomas-guilier,Thomas Gillier,Goalkeeper,CF Montreal,MLS,22,38.0,40.0,55.0,22,22,60.0,3.72,35.91,0,3,2,4,8,7,4,12,0.7,2.6
+brayan-emanuel-vera-ramirez,Brayan Vera,Defender,CF Montreal,MLS,27,49.0,41.0,67.5,27,27,74.5,7.39,33.89,0,3,4,5,9,11,4,4,0.39,3.28
+viktor-radojevic,Viktor Radojević,Defender,CF Montreal,MLS,22,37.0,36.0,30.0,12,5,11.0,0.48,35.42,0,1,0,0,3,7,1,28,0.92,1.48
+antino-lopez,Antino Lopez,Defender,Seattle Sounders FC,MLS,24,37.0,45.0,42.5,17,10,25.8,5.65,39.41,0,2,3,1,5,5,1,23,0.59,3.09
+shane-donovan,Shane Donovan,Midfielder,Sporting Kansas City ,MLS,19,35.0,35.0,2.5,1,0,0.0,-0.4,35.0,0,0,0,0,0,1,0,24,,
+salvador-olivas,Salvador Olivas,Forward,Philadelphia Union,MLS,20,46.0,46.0,5.0,2,0,1.3,-2.85,47.5,0,0,1,0,0,1,0,38,0.63,1.65
+israel-ramon-boatwright,Israel Boatwright,Defender,Inter Miami CF,MLS,21,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,1.2,2.32
+john-mccarthy,John McCarthy,Goalkeeper,New York Red Bulls,MLS,34,8.0,8.0,2.5,1,1,3.1,-6.7,15.0,0,0,0,0,0,0,1,39,0.51,0.93
+belal-halbouni,Belal Halbouni,Defender,Vancouver Whitecaps FC,MLS,26,47.0,47.0,12.5,5,4,9.6,11.76,35.0,0,0,0,2,2,1,0,35,1.81,3.01
+daniel-baran,Daniel Baran,Forward,FC Dallas,MLS,20,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.59,1.97
+gabriel-segal,Gabe Segal ,Forward,DC United,MLS,25,35.0,35.0,2.5,1,0,0.1,-0.5,35.0,0,0,0,0,0,5,0,35,0.46,2.34
+andreas-hanche-olsen,Andreas Hanche-Olsen,Defender,Chicago Fire FC,MLS,29,45.0,46.0,22.5,9,7,16.8,12.93,32.78,0,1,2,0,3,2,1,31,1.28,5.78
+leonardo-campana-romero,Leonardo Campana,Forward,New England Revolution,MLS,26,46.0,46.0,12.5,5,3,9.2,1.4,45.0,0,0,5,0,3,3,0,29,0.76,1.48
+dusan-zagar,Dušan Žagar,Midfielder,Real Salt Lake,MLS,19,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,4,,
+ignacio-suarez-couri,Ignacio Suarez-Couri,Midfielder,Atlanta United,MLS,17,33.0,33.0,2.5,1,0,0.1,-2.4,35.0,0,0,0,0,0,1,0,11,,
+santiago-pita,Santiago Pita,Midfielder,Atlanta United,MLS,19,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,26,0.47,3.58
+hunter-sulte,Hunter Sulte,Goalkeeper,Portland Timbers,MLS,24,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.96,4.01
+riley-thomas,Riley Thomas,Defender,Austin FC,MLS,24,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.46,1.46
+bode-davis,Bode Hidalgo ,Defender,CF Montreal,MLS,24,32.0,32.0,17.5,7,5,17.9,-2.8,35.0,0,0,1,0,7,5,1,26,0.44,1.12
+gavin-turner,Gavin Turner,Midfielder,DC United,MLS,19,39.0,39.0,7.5,3,0,1.7,3.5,35.0,0,0,0,0,2,2,0,36,0.48,3.34
+bryan-dowd,Bryan Dowd,Goalkeeper,Colorado Rapids,MLS,24,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.84,3.4
+jorge-ruvalcaba,Jorge Ruvalcaba,Forward,New York Red Bulls,MLS,25,36.0,46.0,0.0,0,0,65.5,3.52,42.5,0,1,9,1,19,7,0,3,0.47,0.71
+sebastian-conlon,Sebastian Conlon,Goalkeeper,LA Galaxy,MLS,23,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,5,,
+eric-izoita,Eric Izoita,Midfielder,Portland Timbers,MLS,19,60.0,60.0,2.5,1,1,3.3,-15.5,60.0,0,0,1,0,0,0,0,26,,
+juan-david-mosquera-lopez,Juan Mosquera,Defender,Portland Timbers,MLS,24,38.0,38.0,25.0,10,0,13.9,1.12,36.5,0,0,0,0,0,0,0,37,0.84,3.4
+kai-trewin,Kai Trewin,Defender,New York City FC,MLS,25,41.0,45.0,57.5,23,20,45.6,10.93,34.13,0,1,3,6,8,4,0,18,0.48,1.02
+maxwell-murray,Maxwell Murray,Defender,New York City FC,MLS,24,48.0,48.0,12.5,5,5,10.8,11.85,36.0,0,0,2,0,2,0,1,35,1.04,1.96
+baye-coulibaly,Baye Coulibaly,Midfielder,Charlotte FC,MLS,20,37.0,37.0,5.0,2,0,0.3,1.85,35.0,0,0,0,0,2,0,0,31,1.6,1.88
+isaiah-leflore,Isaiah LeFlore,Defender,Nashville SC,MLS,23,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.37,1.61
+omir-fernandez,Omir Fernandez,Forward,Portland Timbers,MLS,27,36.0,36.0,0.0,0,0,7.0,0.98,35.0,0,0,0,0,9,5,0,26,0.63,2.82
+thayllon-roberth-dos-santos-rebelo,Thayllon,Forward,Los Angeles FC,MLS,20,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,4,,
+benjamin-bender,Benjamin Bender,Midfielder,Philadelphia Union,MLS,25,49.0,47.0,27.5,11,5,14.7,9.37,37.73,0,1,1,2,5,1,1,29,0.48,4.35
+gonzalo-lujan-melli,Gonzalo Luján,Defender,Inter Miami CF,MLS,25,41.0,44.0,60.0,24,16,36.8,8.25,35.21,0,2,3,3,7,8,1,16,0.64,2.38
+zackory-roger-campagnolo,Zackory Campagnolo,Goalkeeper,Colorado Rapids,MLS,19,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,,
+elijah-wynder,Elijah Wynder,Midfielder,LA Galaxy,MLS,23,39.0,41.0,70.0,28,19,44.0,3.76,36.79,0,0,2,4,11,13,0,10,1.08,3.25
+palmer-ault,Palmer Ault,Forward,St. Louis City SC,MLS,22,35.0,35.0,17.5,7,0,3.8,0.46,35.0,0,0,0,0,5,2,0,5,,
+johann-alexander-chirinos,Johann Chirinos,Midfielder,Columbus Crew,MLS,21,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,23,,
+philippe-ndinga-ossibadjouo,Philippe Ndinga,Defender,Philadelphia Union,MLS,21,28.0,28.0,20.0,8,4,10.3,-5.34,32.5,0,0,0,0,3,4,1,32,1.99,1.52
+nelson-quinones,Nelson Quiñónes,Midfielder,Houston Dynamo FC,MLS,24,37.0,37.0,2.5,1,0,0.3,2.1,35.0,0,0,0,0,1,0,0,39,1.2,3.39
+gabriel-walter-christopher-dahlin,Gabriel Dahlin,Defender,New England Revolution,MLS,23,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,39,,
+vincent-rinaldi,Vincent Rinaldi,Midfielder,Colorado Rapids,MLS,19,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,4,,
+kellan-jack-leblanc,Kellan LeBlanc,Midfielder,Philadelphia Union,MLS,18,38.0,38.0,2.5,1,0,1.1,3.1,35.0,0,0,0,0,1,0,0,12,,
+el-hadij-samb,El Samb,Midfielder,New York City FC,MLS,16,40.0,40.0,2.5,1,0,1.6,4.7,35.0,0,0,0,0,1,0,0,8,,
+edwyn-mendoza-magana,Edwyn Mendoza,Midfielder,San Jose Earthquakes,MLS,20,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,1.1,1.41
+xavier-valdez,Xavier Valdez,Goalkeeper,Nashville SC,MLS,22,34.0,34.0,5.0,2,2,4.5,-0.8,35.0,0,0,0,0,1,1,0,38,1.42,1.17
+grant-gilmore,Grant Gilmore,Defender,Colorado Rapids,MLS,18,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,11,,
+kayne-rizvanovich,Kayne Rizvanovich,Goalkeeper,Minnesota United,MLS,18,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,1.78,3.01
+liam-o-gara,Liam O'Gara,Midfielder,Real Salt Lake,MLS,21,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,3,,
+michael-collodi,Michael Collodi,Goalkeeper,FC Dallas,MLS,25,47.0,47.0,45.0,18,18,46.3,6.76,40.0,0,2,3,1,8,5,1,20,0.47,2.0
+jeffrey-gal,Jeff Gal ,Goalkeeper,Chicago Fire FC,MLS,33,0.0,0.0,2.5,1,1,2.5,-12.3,5.0,0,0,0,0,0,0,1,39,1.23,2.62
+zidane-yanez,Zidane Yañez,Forward,Nashville SC,MLS,18,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.5,0.87
+micah-chisholm,Micah Chisholm,Defender,Toronto FC,MLS,21,35.0,35.0,5.0,2,0,4.1,-0.19,35.0,0,0,0,0,1,1,0,14,,
+ricard-puig-marti-1999-08-13,Riqui Puig ,Midfielder,LA Galaxy,MLS,27,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,2.0,10.45
+pedro-henrique-leao-alves-lopes,Pedro Leão,Forward,Orlando City SC,MLS,20,36.0,36.0,2.5,1,0,0.2,0.8,35.0,0,0,0,0,1,0,0,39,,
+alfredo-ademar-chavez-lopez,Alfredo Chávez,Midfielder,FC Cincinnati,MLS,17,70.0,70.0,2.5,1,0,1.4,10.1,60.0,0,0,1,0,0,0,0,31,1.11,3.04
+kevin-gbamble,Kevin Gbamblé,Forward,Columbus Crew,MLS,19,40.0,40.0,2.5,1,0,0.5,5.3,35.0,0,0,0,0,1,0,0,19,,
+mamadou-dieng,Mamadou Dieng,Forward,Minnesota United,MLS,22,37.0,37.0,52.5,21,7,18.2,1.65,35.0,0,0,0,1,13,10,0,16,1.03,1.79
+darius-johnson,Darius Johnson,Forward,San Jose Earthquakes,MLS,26,38.0,38.0,10.0,4,0,7.8,2.85,35.0,0,3,0,0,17,5,0,15,2.06,7.83
+issah-haruna,Issah Haruna,Midfielder,Orlando City SC,MLS,22,34.0,34.0,2.5,1,0,2.2,-0.9,35.0,0,0,0,0,0,1,0,9,,
+carlos-zambrano-zarzalejo,Carlos Zambrano,Midfielder,New England Revolution,MLS,22,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,17,,
+kaedren-spivey,Kaedren Spivey,Midfielder,San Jose Earthquakes,MLS,17,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,1.02,1.21
+lyle-foster,Lyle Foster,Forward,Houston Dynamo FC,MLS,26,37.0,42.0,50.0,20,11,25.4,0.32,41.0,0,2,2,0,8,8,0,20,1.27,8.95
+nathan-robert-yoba-griffin-tchoumba,Nathan Tchoumba,Midfielder,Colorado Rapids,MLS,15,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,19,,
+arnau-farnos-olive,Arnau Farnós,Forward,New York City FC,MLS,23,38.0,38.0,20.0,8,2,6.5,3.34,35.0,0,0,0,0,8,0,0,16,,
+alisa-randell,D. Randell,Forward,Minnesota United,MLS,19,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,1,0,0,39,1.68,1.86
+kamil-efraim-castillo-reynoso,Kamil Castillo,Midfielder,DC United,MLS,16,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,8,,
+amar-sejdic,Amar Sejdić,Midfielder,Columbus Crew,MLS,29,40.0,40.0,25.0,10,2,6.8,5.22,35.0,0,0,0,1,8,2,0,29,0.55,1.04
+charles-emile-brunet,Charles-Emile Brunet,Midfielder,St. Louis City SC,MLS,22,48.0,48.0,17.5,7,2,7.0,12.89,35.0,0,1,0,1,5,0,0,30,1.5,
+nicholas-gregory-simmonds,Nicholas Simmonds,Forward,FC Dallas,MLS,19,35.0,35.0,12.5,5,1,4.0,0.34,35.0,0,0,0,0,3,2,0,24,0.59,4.76
+chase-mesner-adams,Chase Adams,Forward,Columbus Crew,MLS,18,40.0,40.0,22.5,9,4,7.2,1.83,37.78,0,0,1,0,5,3,0,31,0.86,6.14
+kimani-stewart-baynes,Kimani Stewart-Baynes,Forward,Colorado Rapids,MLS,21,36.0,36.0,2.5,1,0,0.3,0.9,35.0,0,0,0,0,2,1,0,37,0.53,1.07
+mamadou-billo-diop,Mamadou Diop,Forward,Colorado Rapids,MLS,20,34.0,34.0,5.0,2,0,0.7,-1.05,35.0,0,0,0,0,0,2,0,21,,
+alexander-bonetig,Alexander Bonetig,Defender,Portland Timbers,MLS,24,41.0,41.0,22.5,9,8,25.5,3.55,37.78,0,0,2,0,2,5,0,20,0.46,1.42
+noel-buck,Noel Buck,Midfielder,San Jose Earthquakes,MLS,21,33.0,33.0,7.5,3,1,4.0,-2.17,35.0,0,0,1,0,3,4,0,32,1.01,1.1
+william-kumado,William Kumado,Defender,San Diego FC,MLS,23,38.0,35.0,10.0,4,0,1.4,-0.08,35.0,0,0,0,0,2,2,0,36,0.48,1.11
+gilberto-rivera,Gilberto Rivera,Midfielder,Houston Dynamo FC,MLS,21,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,12,,
+sergio-ronaldo-vasquez-cabrera,Sergio Vasquez,Midfielder,Los Angeles FC,MLS,22,56.0,55.0,85.0,34,34,73.9,13.98,41.18,0,6,6,6,13,2,0,7,1.37,6.23
+david-ayala,David Ayala,Midfielder,Inter Miami CF,MLS,24,36.0,42.0,50.0,20,10,23.7,7.51,34.0,0,0,2,1,13,4,1,19,0.96,3.97
+andrew-johnson-2004-02-03,Andrew Johnson,Defender,Charlotte FC,MLS,22,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,1,0,0,0,39,,
+trey-muse,Trey Muse,Goalkeeper,Portland Timbers,MLS,27,36.0,36.0,7.5,3,3,7.3,1.17,35.0,0,0,0,0,2,1,0,37,1.26,4.51
+antonio-henry-riquelme,Antonio Riquelme,Midfielder,Real Salt Lake,MLS,18,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,29,0.55,3.56
+andrew-jardines,Andrew Jardines,Midfielder,Atlanta United,MLS,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,5,,
+jose-magana-jr,Jose Magaña,Defender,LA Galaxy,MLS,19,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,26,,
+anderson-andres-julio-santos,Anderson Julio,Forward,FC Dallas,MLS,30,37.0,40.0,27.5,11,3,10.2,0.25,39.55,0,0,2,0,7,6,0,25,0.46,0.84
+mikah-thomas,Mikah Thomas,Defender,Charlotte FC,MLS,21,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,34,1.25,0.91
+ignacio-gomez,Ignacio Gómez,Midfielder,Orlando City SC,MLS,20,48.0,48.0,7.5,3,1,2.6,4.6,43.33,0,0,1,0,2,0,0,37,,
+evan-louro,Evan Louro,Goalkeeper,FC Cincinnati,MLS,30,47.0,47.0,20.0,8,8,18.5,6.75,40.63,0,0,3,3,1,1,1,31,1.19,6.17
+robert-turdean,Robert Turdean,Midfielder,Chicago Fire FC,MLS,16,35.0,35.0,2.5,1,1,1.2,0.4,35.0,0,0,0,0,1,0,0,39,1.82,6.9
+geovane-de-jesus-rocha,Geovane Jesus,Defender,FC Dallas,MLS,25,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.44,1.51
+chadwick-booth,Zachary Booth,Midfielder,Real Salt Lake,MLS,22,45.0,42.0,35.0,14,8,14.7,3.52,38.57,0,0,2,0,8,4,0,26,0.39,0.66
+david-poreba,Dawid Poręba,Midfielder,Chicago Fire FC,MLS,23,46.0,46.0,7.5,3,1,1.8,2.53,43.33,0,0,1,0,2,0,0,37,0.6,1.86
+d-j-taylor,D.J. Taylor,Defender,Minnesota United,MLS,29,30.0,30.0,12.5,5,2,5.4,-1.48,31.0,0,0,0,0,3,2,1,34,0.54,1.19
+nikola-petkovic-2003-02-23,Nikola Petković,Midfielder,Seattle Sounders FC,MLS,23,39.0,39.0,20.0,8,3,6.3,1.0,38.13,0,0,1,0,4,4,0,31,0.48,1.99
+nathan-crockford,Nathan Crockford,Goalkeeper,San Jose Earthquakes,MLS,24,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,1.15,1.71
+john-david-gunn-curlin,John Gunn,Goalkeeper,New England Revolution,MLS,26,41.0,41.0,2.5,1,0,3.0,5.5,35.0,0,0,0,0,0,0,0,40,1.1,2.05
+nehuen-benedetti,Nehuén Benedetti,Midfielder,New York Red Bulls,MLS,21,37.0,37.0,15.0,6,0,3.0,2.27,35.0,0,0,0,0,5,2,0,33,0.3,0.8
+cayman-togashi,Cayman Togashi,Forward,Atlanta United,MLS,33,35.0,35.0,22.5,9,1,4.0,-0.04,35.0,0,0,1,0,6,6,0,27,0.46,1.22
+josh-cohen,Joshua Cohen,Goalkeeper,Chicago Fire FC,MLS,34,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,1.02,2.84
+noah-streit,Noah Streit,Midfielder,CF Montreal,MLS,20,41.0,39.0,0.0,0,0,40.8,2.82,36.36,0,0,2,0,15,4,1,7,0.55,2.27
+max-kerkvliet,Maximillian Kerkvliet,Goalkeeper,Real Salt Lake,MLS,20,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,1.02,4.69
+nonso-adimabua,N. Adimabua,Forward,San Jose Earthquakes,MLS,26,48.0,48.0,5.0,2,1,1.8,0.4,47.5,0,0,1,0,1,0,0,24,,
+evan-bush,Evan Bush,Goalkeeper,Columbus Crew,MLS,40,61.0,61.0,2.5,1,1,2.5,25.6,35.0,0,0,1,0,0,0,0,39,0.44,2.23
+rafael-guillermo-uzcategui-golding,Rafael Uzcátegui,Defender,Philadelphia Union,MLS,21,49.0,49.0,2.5,1,1,10.0,14.38,35.0,0,0,1,1,9,5,2,22,,
+timothy-tillman,Timothy Tillman,Midfielder,Los Angeles FC,MLS,27,52.0,53.0,80.0,32,26,54.9,12.03,40.0,1,1,6,6,17,1,0,8,0.88,3.85
+adrian-marin-gomez,Adrián Marín,Defender,Orlando City SC,MLS,29,39.0,45.0,60.0,24,17,44.4,4.77,40.21,0,1,7,1,10,7,1,13,1.65,2.56
+sekou-tidiany-bangoura,Sekou Bangoura,Midfielder,Columbus Crew,MLS,24,49.0,44.0,40.0,16,6,20.1,5.83,38.13,0,0,3,0,10,3,0,23,0.63,1.49
+grant-leveille,Grant Leveillé,Goalkeeper,DC United,MLS,18,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,25,,
+nelson-palacio-ruiz,Nelson Palacio,Midfielder,Toronto FC,MLS,25,46.0,48.0,55.0,22,21,44.5,10.24,37.27,0,1,3,4,11,3,0,18,1.68,4.73
+leo-walta,Leo Walta,Midfielder,Los Angeles FC,MLS,23,51.0,48.0,42.5,17,7,29.2,8.67,39.41,0,1,1,3,8,5,0,18,2.0,5.09
+francesco-montali,Francesco Montali,Goalkeeper,San Jose Earthquakes,MLS,26,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,1.02,3.92
+alex-mighten,Alexander Mighten,Forward,San Diego FC,MLS,24,46.0,43.0,50.0,20,6,20.0,3.13,40.0,0,1,3,0,12,4,0,20,0.46,1.22
+tomas-lian-romero-keubler,Tomás Romero,Goalkeeper,New York City FC,MLS,25,36.0,38.0,2.5,1,1,2.2,2.8,35.0,0,0,0,0,1,0,0,39,1.34,4.8
+ibrahim-sadiq,Ibrahim Sadiq,Forward,Colorado Rapids,MLS,26,37.0,39.0,52.5,21,6,18.7,3.26,36.19,0,0,1,1,15,4,0,19,4.44,10.35
+cabral-jones-carter,Cabral Carter,Goalkeeper,Los Angeles FC,MLS,22,62.0,62.0,5.0,2,1,3.8,14.8,47.5,0,1,0,0,1,0,0,38,1.93,5.18
+reese-miller,Reese Miller,Defender,Houston Dynamo FC,MLS,22,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,26,1.76,2.57
+theodore-ku-dipietro,Theodore Ku-Dipietro,Midfielder,Colorado Rapids,MLS,24,42.0,42.0,17.5,7,1,6.9,6.91,35.0,0,0,0,2,13,2,0,23,0.63,0.89
+vinicius-nogueira-de-oliveira,Vinícius Nogueira,Defender,Orlando City SC,MLS,24,48.0,48.0,20.0,8,7,36.3,7.18,41.25,0,4,3,4,7,7,2,13,1.77,
+noah-cristiano-santos,Noah Santos,Forward,Portland Timbers,MLS,19,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,,
+juan-giovanni-villa,Giovanni Villa,Defender,Real Salt Lake,MLS,18,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.45,2.2
+kenji-giovanni-cabrera-nakamura,Kenji Cabrera,Forward,Vancouver Whitecaps FC,MLS,23,42.0,45.0,47.5,19,5,18.9,5.68,38.95,0,1,3,1,12,1,0,22,0.8,2.89
+logan-erb,Logan Erb,Goalkeeper,Houston Dynamo FC,MLS,22,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,22,1.35,1.62
+julian-placias,Julian Placias,Forward,LA Galaxy,MLS,20,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.79,7.8
+brendan-mcsorley,Brendan McSorley,Forward,St. Louis City SC,MLS,24,37.0,37.0,37.5,15,1,10.0,0.31,36.67,0,1,1,0,10,6,0,22,0.54,0.9
+luis-barraza,Luis Barraza,Goalkeeper,Inter Miami CF,MLS,29,22.0,22.0,2.5,1,1,0.6,6.8,15.0,0,0,1,0,3,1,1,34,1.29,3.27
+stijn-spierings,Stijn Spierings,Midfielder,Real Salt Lake,MLS,30,49.0,49.0,70.0,28,21,45.7,11.76,37.68,0,3,4,3,16,4,0,10,0.48,4.36
+tylon-christopher-smith,Tylon Smith,Defender,New England Revolution,MLS,21,18.0,18.0,7.5,3,0,2.0,-4.03,21.67,0,0,0,0,1,0,2,37,1.77,
+blake-gillingham,Blake Gillingham,Goalkeeper,Houston Dynamo FC,MLS,23,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,1.74,4.83
+micael-dos-santos-silva,Micael,Defender,Inter Miami CF,MLS,26,47.0,49.0,62.5,25,25,53.2,11.36,38.0,0,1,7,2,9,6,0,15,0.96,2.18
+jimer-esteban-fory-mejia,Jimer Fory,Midfielder,Portland Timbers,MLS,24,59.0,48.0,0.0,0,0,65.8,11.12,36.94,0,5,5,4,10,7,2,7,1.85,5.38
+jack-neeley,Jack Neeley,Defender,Charlotte FC,MLS,21,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.46,4.76
+dean-boltz,Dean Boltz,Forward,Chicago Fire FC,MLS,20,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.71,3.0
+dominik-chong-qui,Dominik Chong Qui,Defender,Atlanta United,MLS,18,18.0,18.0,2.5,1,1,3.0,-17.18,35.0,0,0,0,0,0,0,1,39,1.18,1.84
+jayden-hibbert,Jayden Hibbert,Goalkeeper,Atlanta United,MLS,22,44.0,44.0,7.5,3,3,9.0,8.97,35.0,0,1,1,2,3,1,0,32,0.72,5.36
+jack-kortkamp,Jack Kortkamp,Goalkeeper,Sporting Kansas City ,MLS,18,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.51,2.32
+gustavo-andres-caraballo-delgado,Gustavo Caraballo,Midfielder,Orlando City SC,MLS,18,32.0,32.0,0.0,0,0,1.3,-3.2,35.0,0,0,0,0,0,1,0,39,2.07,3.44
+jahmarie-justin-kasheem-nolan,Jahmarie Nolan,Forward,Toronto FC,MLS,16,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,20,,
+zack-steffen,Zackary Steffen,Goalkeeper,Colorado Rapids,MLS,31,45.0,45.0,30.0,12,12,37.2,7.2,37.5,0,1,2,3,9,5,2,18,0.61,3.22
+yeimar-pastor-gomez-andrade,Yéimar Gómez Andrade,Defender,Seattle Sounders FC,MLS,34,46.0,46.0,17.5,7,7,11.7,11.17,35.0,0,1,0,3,3,2,0,31,0.47,2.76
+joao-victor-loiola-santos,Loiola,Defender,New York City FC,MLS,21,44.0,44.0,2.5,1,0,0.7,8.98,35.0,0,0,0,0,1,0,0,39,,
+justen-glad,Justen Glad,Defender,Real Salt Lake,MLS,29,56.0,55.0,42.5,17,17,44.1,12.49,42.65,0,4,5,3,6,5,0,17,0.39,1.89
+santiago-morales-2007-02-09,Santiago Morales,Midfielder,Inter Miami CF,MLS,19,46.0,46.0,5.0,2,1,1.9,11.15,35.0,0,0,0,1,1,0,0,38,1.43,2.05
+brady-scott,Brady Scott,Goalkeeper,LA Galaxy,MLS,27,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.63,3.3
+hennadii-synchuk,Hennadii Synchuk,Midfielder,CF Montreal,MLS,20,48.0,48.0,0.0,0,0,38.6,10.11,37.63,0,2,3,7,15,3,0,10,0.48,2.25
+alejandro-piedrahita-diaz,Alejandro Piedrahita,Forward,Toronto FC,MLS,24,48.0,48.0,15.0,6,6,29.7,3.28,45.0,0,1,2,1,9,3,0,24,2.74,6.25
+nicholas-george-hagen-godoy,Nicholas Hagen,Goalkeeper,Columbus Crew,MLS,30,44.0,44.0,17.5,7,7,15.8,7.79,35.71,0,1,0,2,2,1,0,34,0.8,3.18
+pablo-eduardo-sisniega-fink,Pablo Sisniega,Goalkeeper,San Diego FC,MLS,31,44.0,44.0,17.5,7,6,14.8,8.74,35.0,0,1,2,0,1,2,1,33,0.96,3.89
+joe-willis,Joe Willis,Goalkeeper,Nashville SC,MLS,38,37.0,26.0,7.5,3,3,6.8,-2.4,28.33,0,0,0,0,1,1,1,37,6.17,8.19
+omar-javier-valencia-arauz,Omar Valencia,Defender,New York Red Bulls,MLS,22,25.0,28.0,32.5,13,2,15.1,-3.69,31.92,0,0,0,0,6,7,2,25,0.47,0.88
+emil-gazdov,Emil Gazdov,Goalkeeper,CF Montreal,MLS,23,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,1.69,4.02
+alexander-cunningham,Alexander Cunningham,Defender,Sporting Kansas City ,MLS,19,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,2,,
+aron-john,Aron John,Midfielder,Charlotte FC,MLS,20,36.0,36.0,2.5,1,0,0.0,1.0,35.0,0,0,0,0,1,0,0,26,,
+javaun-mussenden,Javaun Mussenden,Midfielder,New England Revolution,MLS,19,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,25,,
+stanislav-lapkes,Stanislav Lapkes,Goalkeeper,Columbus Crew,MLS,20,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,1.09,2.72
+mark-o-neill,Mark O'Neill,Defender,Seattle Sounders FC,MLS,24,42.0,42.0,5.0,2,1,4.6,6.92,35.0,0,0,0,0,2,0,0,38,,
+mason-stajduhar,Mason Stajduhar,Goalkeeper,Real Salt Lake,MLS,28,30.0,30.0,2.5,1,1,2.7,-5.1,35.0,0,0,0,0,0,1,0,39,0.61,1.74
+anthony-marcucci,Anthony Marcucci Jr. ,Goalkeeper,New York Red Bulls,MLS,27,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,1,0,0,2,0,0,37,1.1,1.71
+miguel-perez,Miguel Perez,Midfielder,St. Louis City SC,MLS,21,37.0,37.0,27.5,11,3,10.1,2.39,35.0,0,0,0,0,8,3,0,29,0.55,1.16
+nathan-worth,Nathan Worth,Midfielder,New York Red Bulls,MLS,19,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,11,,
+max-anchor,Max Anchor,Goalkeeper,Seattle Sounders FC,MLS,22,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,2.22,2.55
+kwasi-poku,Kwasi Poku,Forward,Vancouver Whitecaps FC,MLS,23,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,1,0,0,13,1.43,8.66
+toto-majub,Toto Majub,Defender,Atlanta United,MLS,20,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,26,,
+colin-welsh,Colin Welsh,Goalkeeper,St. Louis City SC,MLS,23,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,13,,
+griffin-dillon,Griffin Dillon,Midfielder,Real Salt Lake,MLS,23,41.0,41.0,25.0,10,4,11.0,5.97,35.0,0,0,0,2,4,4,0,30,0.45,1.23
+benjamin-maximilian-lundt,Ben Lundt,Goalkeeper,St. Louis City SC,MLS,30,38.0,38.0,5.0,2,2,6.2,0.5,37.5,0,0,1,0,0,0,1,38,0.88,5.33
+luca-ulrich,Luca Ulrich,Goalkeeper,San Jose Earthquakes,MLS,23,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,,
+cooper-flax,Cooper Flax,Midfielder,New York City FC,MLS,22,39.0,39.0,2.5,1,0,0.0,3.9,35.0,0,0,0,0,1,0,0,28,2.0,2.11
+mark-bronnik,Mark Bronnik,Forward,Seattle Sounders FC,MLS,19,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,10,,
+jacob-bartlett,Jacob Bartlett,Defender,Sporting Kansas City ,MLS,20,39.0,39.0,0.0,0,0,39.2,2.85,36.3,0,0,4,1,16,11,2,6,0.38,1.2
+christopher-jesus-aquino-valverde,Christopher Aquino,Midfielder,Colorado Rapids,MLS,20,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,1,,
+vinicius-rodrigues-da-silva,Vinicius Silva,Defender,Houston Dynamo FC,MLS,20,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,17,,
+emmanuel-boateng-1994-01-17,Emmanuel Boateng,Midfielder,San Diego FC,MLS,32,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.67,0.64
+diego-henrique-borges-da-silva,Diego Borges,Defender,Sporting Kansas City ,MLS,21,36.0,36.0,7.5,3,2,9.8,1.07,35.0,0,0,0,0,2,1,0,18,0.62,6.44
+diego-alejandro-rey,Diego Rey,Forward,Inter Miami CF,MLS,20,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,14,,
+paul-gindiri,Ilijah Paul,Forward,Real Salt Lake,MLS,24,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.69,1.82
+trevor-wright,Trevor Wright,Defender,Vancouver Whitecaps FC,MLS,24,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,12,,
+caua-scabin,Cauã Scabin,Defender,FC Dallas,MLS,19,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,29,0.51,3.16
+alexander-bono,Alex Bono,Goalkeeper,DC United,MLS,32,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.39,1.75
+johann-rolando-ortiz-perez,Johann Ortiz,Midfielder,Sporting Kansas City ,MLS,19,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,22,,
+chris-applewhite,Christopher Applewhite,Defender,Austin FC,MLS,19,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,1.36,5.67
+keegan-hughes,Keegan Hughes,Defender,New England Revolution,MLS,26,32.0,32.0,5.0,2,2,11.5,-3.05,35.0,0,1,0,0,2,2,2,33,0.42,1.06
+julian-gaines,Julian Gaines,Defender,Nashville SC,MLS,23,36.0,36.0,2.5,1,0,0.5,0.92,35.0,0,0,0,0,3,0,0,37,2.77,4.28
+rafael-jauregui,Rafael Jauregui,Forward,Seattle Sounders FC,MLS,21,35.0,35.0,2.5,1,0,0.2,0.2,35.0,0,0,0,0,1,0,0,7,,
+benjamin-flowers,Benjamin Flowers,Forward,FC Dallas,MLS,15,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,11,,
+micah-aiden-burton,Micah Burton,Midfielder,Austin FC,MLS,20,33.0,33.0,5.0,2,0,0.5,-2.2,35.0,0,0,0,0,0,2,0,38,0.48,1.29
+peter-molinari,Peter Molinari,Midfielder,New York City FC,MLS,17,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,,
+tadeo-allende,Tadeo Allende,Forward,Inter Miami CF,MLS,27,40.0,51.0,37.5,15,10,23.9,4.99,45.0,0,3,1,1,7,3,0,25,0.96,2.74
+damian-las,Damian Las,Goalkeeper,Austin FC,MLS,24,58.0,58.0,2.5,1,1,3.0,23.1,35.0,0,0,0,1,0,0,0,39,1.45,3.73
+jonathan-alexander-gonzalez-mendoza,Jonathan Gónzalez,Midfielder,San Jose Earthquakes,MLS,27,40.0,40.0,37.5,15,5,8.3,2.91,36.67,0,0,1,0,9,5,0,25,,
+aedon-orion-sundstrom,F. Sundstrom,Defender,Philadelphia Union,MLS,19,49.0,49.0,10.0,4,1,2.8,0.63,47.5,0,0,2,0,2,0,0,29,0.7,3.43
+mateja-djordjevic,Mateja Đorđević,Defender,Austin FC,MLS,23,42.0,40.0,30.0,12,7,18.5,1.06,37.08,0,0,1,3,4,5,0,27,0.86,0.93
+julian-malatini,Julián Malatini,Defender,FC Cincinnati,MLS,25,37.0,37.0,25.0,10,4,12.5,3.74,33.0,0,0,0,1,5,3,2,29,1.2,7.04
+geiner-arleyson-martinez-turner,Geiner Martínez,Defender,Philadelphia Union,MLS,23,42.0,43.0,27.5,11,8,21.9,5.14,37.27,0,1,1,1,3,4,1,22,1.02,2.66
+lovens-junior-delinois,Lovend's Delinois,Forward,Inter Miami CF,MLS,21,37.0,37.0,10.0,4,2,16.0,1.8,35.0,0,0,0,0,3,1,0,11,,
+thomas-williams-2004-08-15,Thomas Williams,Defender,Nashville SC,MLS,22,55.0,55.0,10.0,4,4,9.0,13.07,41.25,0,0,2,0,2,0,0,36,1.35,4.67
+juan-jose-mina-gonzalez,Juan Mina,Defender,New York Red Bulls,MLS,22,48.0,48.0,12.5,5,1,6.3,8.25,40.0,0,1,0,0,3,1,0,35,0.37,1.39
+william-paul-yarbrough-story,William Yarbrough,Goalkeeper,Toronto FC,MLS,37,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.48,1.67
+preston-plambeck,Preston Plambeck,Midfielder,Inter Miami CF,MLS,20,40.0,40.0,20.0,8,0,5.7,1.98,38.13,0,0,1,0,3,4,0,12,,
+maximiliano-nicol-moralez,Maximiliano Moralez,Midfielder,New York City FC,MLS,39,55.0,52.0,57.5,23,23,47.5,7.55,44.57,0,3,6,1,12,3,0,15,0.48,0.94
+kieran-chandler,Kieran Chandler,Defender,Minnesota United,MLS,21,36.0,36.0,5.0,2,1,2.7,0.51,35.0,0,0,0,0,2,0,0,38,0.46,2.51
+ranko-veselinovic,Ranko Veselinovic,Defender,Vancouver Whitecaps FC,MLS,27,37.0,37.0,10.0,4,1,0.9,1.58,35.0,0,0,0,0,2,2,0,36,0.71,2.66
+brandon-bye,Brandon Bye,Defender,Portland Timbers,MLS,30,51.0,44.0,62.5,25,23,63.8,5.31,38.4,0,2,4,2,11,7,3,11,0.46,5.23
+ivan-losenko,Ivan Losenko,Midfielder,CF Montreal,MLS,22,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,26,0.67,0.95
+owen-presthus,Owen Presthus,Defender,Nashville SC,MLS,20,48.0,48.0,2.5,1,1,2.0,12.62,35.0,0,0,0,0,1,0,0,39,1.82,0.88
+earl-edwards-jr,Earl Edwards Jr.,Goalkeeper,San Jose Earthquakes,MLS,34,42.0,42.0,5.0,2,2,3.9,6.95,35.0,0,0,0,0,2,0,0,38,1.42,2.9
+frankie-amaya,Frankie Amaya,Midfielder,CF Montreal,MLS,25,44.0,39.0,7.5,3,0,2.0,3.77,35.0,0,0,0,0,3,0,0,37,0.76,4.47
+warren-steven-madrigal-molina,Warren Madrigal,Forward,Nashville SC,MLS,22,47.0,45.0,62.5,25,19,36.6,3.98,40.8,0,2,3,0,16,4,0,15,0.56,2.21
+troy-steven-putt,Troy Putt,Forward,Minnesota United,MLS,19,32.0,32.0,2.5,1,0,0.1,-3.1,35.0,0,0,0,0,0,1,0,28,,
+cristiano-paulo-santos-oliveira,Cristiano Oliveira,Midfielder,New England Revolution,MLS,18,32.0,32.0,2.5,1,0,0.2,-2.6,35.0,0,0,0,0,0,1,0,39,0.67,3.33
+antone-jason-bossenberry-romero,Antone Bossenberry,Midfielder,Toronto FC,MLS,18,41.0,41.0,5.0,2,0,1.9,5.65,35.0,0,0,0,0,1,1,0,15,,
+luca-bregninge-costabile,Luca Costabile,Defender,Toronto FC,MLS,24,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,14,,
+luke-pruter,Luke Pruter,Goalkeeper,Columbus Crew,MLS,25,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.8,1.83
+celio-antonio-pompeu-pinheiro-martins,Célio Pompeu,Midfielder,St. Louis City SC,MLS,26,46.0,46.0,12.5,5,2,7.0,5.82,40.0,0,1,1,1,11,1,0,25,0.4,0.63
+gallatin-sandnes,Gallatin Sandnes,Defender,Seattle Sounders FC,MLS,18,53.0,53.0,5.0,2,1,9.3,4.96,47.5,0,0,1,0,1,0,0,11,,
+george-marks,George Marks,Goalkeeper,Philadelphia Union,MLS,26,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,2.01,3.28
+dylan-vanney,Dylan Vanney,Midfielder,LA Galaxy,MLS,18,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,13,,
+enzo-newman,Enzo Newman,Defender,FC Dallas,MLS,20,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.43,1.45
+chance-cowell,Chance Cowell,Forward,Real Salt Lake,MLS,18,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.52,2.07
+tristan-brown,Tristan Brown,Defender,Columbus Crew,MLS,18,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,1,0,39,1.77,2.49
+jack-sandmeyer,Jack Sandmeyer,Defender,Chicago Fire FC,MLS,23,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,25,,
+daniel-sumalla,Daniel Sumalla,Defender,Inter Miami CF,MLS,19,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,21,,
+tyler-miller,Tyler Miller,Goalkeeper,Charlotte FC,MLS,33,78.0,78.0,7.5,3,3,9.3,26.73,51.67,0,2,1,0,0,0,0,37,0.39,4.98
+julian-gressel,Julian Gressel,Midfielder,Minnesota United,MLS,32,35.0,35.0,22.5,9,2,5.7,-0.46,35.0,0,0,0,0,8,4,0,28,0.46,1.03
+mason-vanney,Mason Vanney,Midfielder,LA Galaxy,MLS,18,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,6,,
+nathan-richmond,Nathan Richmond,Forward,Charlotte FC,MLS,22,38.0,38.0,5.0,2,0,1.4,2.9,35.0,0,0,0,0,1,1,0,9,,
+jesus-ferreira,Jesús Ferreira,Forward,Seattle Sounders FC,MLS,25,47.0,53.0,80.0,32,27,56.8,12.16,40.78,0,3,5,6,19,1,0,6,0.64,5.39
+joshua-torquato,Joshua Torquato,Defender,FC Dallas,MLS,19,27.0,27.0,7.5,3,1,4.0,-8.49,35.0,0,0,0,0,2,0,1,37,0.39,1.38
+clay-holstad,Clay Holstad,Midfielder,FC Dallas,MLS,26,37.0,37.0,7.5,3,1,5.1,1.8,35.0,0,0,0,0,2,1,0,9,0.91,6.07
+stefan-frei,Stefan Frei,Goalkeeper,Seattle Sounders FC,MLS,40,55.0,56.0,35.0,14,14,33.1,11.83,43.93,0,3,4,1,4,3,0,25,0.7,4.84
+wessam-abou-ali,Wessam Abou Ali,Forward,Columbus Crew,MLS,27,56.0,56.0,17.5,7,7,15.8,-0.17,52.14,0,2,5,0,4,0,0,29,1.0,3.37
+charles-gaffney,Charles Gaffney,Midfielder,Seattle Sounders FC,MLS,23,35.0,35.0,5.0,2,1,7.8,0.35,35.0,0,0,0,0,2,0,0,8,,
+javier-otero,Javier Otero,Goalkeeper,Orlando City SC,MLS,23,28.0,28.0,7.5,3,2,7.2,-6.93,35.0,0,0,0,0,2,0,1,37,1.8,2.11
+riquelme-fillipi-marinho-de-souza,Riquelme Fillipi,Forward,Inter Miami CF,MLS,20,38.0,39.0,7.5,3,0,1.6,4.23,35.0,0,0,0,0,1,2,0,37,4.53,
+donovan-parisian,Donovan Parisian,Goalkeeper,New England Revolution,MLS,21,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.63,1.56
+jimmy-maurer,Jimmy Maurer,Goalkeeper,Houston Dynamo FC,MLS,37,39.0,39.0,2.5,1,0,1.6,4.4,35.0,0,0,0,0,1,0,0,39,1.19,4.18
+josh-duc-nteziryayo,Josh-Duc Nteziryayo,Midfielder,CF Montreal,MLS,17,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,26,0.46,0.99
+andrew-privett,Andrew Privett,Defender,Charlotte FC,MLS,26,40.0,39.0,27.5,11,8,23.3,5.53,33.18,0,0,1,2,5,3,1,28,0.44,1.32
+stefan-kapor,Stefan Kapor,Defender,Toronto FC,MLS,17,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,26,0.56,2.05
+andrew-farrell,Andrew Farrell,Defender,New England Revolution,MLS,34,36.0,36.0,7.5,3,1,3.8,1.23,35.0,0,0,0,0,3,1,0,36,0.55,1.52
+van-ethan-paul-parker,Van Parker,Forward,Real Salt Lake,MLS,17,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,29,,
+david-evra-mimbang-nyangono,David Mimbang,Midfielder,San Diego FC,MLS,18,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,4,,
+marcelo-josemir-saracchi-pintos,Saracchi,Defender,Houston Dynamo FC,MLS,28,42.0,46.0,42.5,17,5,12.1,6.5,39.41,0,2,1,1,8,5,0,23,1.76,6.02
+fletcher-bank,Fletcher Bank,Midfielder,Toronto FC,MLS,23,31.0,31.0,2.5,1,0,0.8,-3.8,35.0,0,0,0,0,0,1,0,15,,
+sebastian-nava,Sebastian Nava,Forward,Los Angeles FC,MLS,23,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,15,,
+tyler-austin-hall,Tyler Hall,Defender,Inter Miami CF,MLS,20,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.72,1.82
+adrian-zendejas-rodriguez,Adrián Zendejas,Goalkeeper,Vancouver Whitecaps FC,MLS,31,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,2.02,5.19
+pedro-jose-soma,Pedro Soma,Midfielder,San Diego FC,MLS,20,46.0,44.0,40.0,16,7,15.8,6.09,37.5,0,2,0,1,8,4,1,24,0.52,2.79
+tanner-rosborough,Tanner Rosborough,Midfielder,New York Red Bulls,MLS,18,37.0,37.0,0.0,0,0,2.1,1.52,35.0,0,0,0,0,3,2,0,35,1.1,1.73
+rafael-antonio-mosquera-diaz,Rafael Mosquera,Forward,New York Red Bulls,MLS,21,39.0,39.0,25.0,10,1,10.7,4.28,35.0,0,0,0,0,10,2,0,27,0.55,1.55
+tahir-yazid-reid-brown,Tahir Reid-Brown,Defender,St. Louis City SC,MLS,20,28.0,28.0,17.5,7,2,6.5,-7.23,35.0,0,0,0,0,1,4,2,33,1.66,3.37
+schinieder-mimy,Schinieder Mimy,Defender,New England Revolution,MLS,25,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,17,,
+isaac-walker,Isaac Walker,Goalkeeper,Charlotte FC,MLS,26,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,,
+ayoub-lajhar,Ayoub Lajhar,Defender,FC Cincinnati,MLS,22,39.0,39.0,12.5,5,0,1.3,1.25,38.0,0,0,1,0,2,1,1,25,,
+john-pulskamp,John Pulskamp,Goalkeeper,Sporting Kansas City ,MLS,25,44.0,40.0,30.0,12,12,38.6,1.46,37.08,0,1,4,1,9,6,3,16,0.95,1.75
+omar-marquez,Omar Marquez,Forward,Real Salt Lake,MLS,18,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.32,1.2
+tristan-himes,Tristan Himes,Goalkeeper,Orlando City SC,MLS,23,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,26,,
+sawyer-george-jura,Sawyer Jura,Defender,Portland Timbers,MLS,20,32.0,32.0,5.0,2,0,1.1,-3.05,35.0,0,0,0,0,0,2,0,38,0.53,1.84
+nimfasha-berchimas,Nimfasha Berchimas,Forward,Charlotte FC,MLS,18,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.39,2.43
+lazar-stefanovic,Lazar Stefanovic,Defender,Toronto FC,MLS,20,38.0,38.0,20.0,8,1,7.5,3.0,35.0,0,0,1,0,4,7,0,28,0.48,1.41
+nikola-djordjevic,Nikola Djordjevic,Defender,Vancouver Whitecaps FC,MLS,23,37.0,37.0,22.5,9,2,6.1,1.54,35.0,0,0,0,0,5,4,0,31,1.13,2.45
+slade-starnes,Slade Starnes,Defender,FC Dallas,MLS,22,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,29,0.45,1.56
+tefan-chirila,S. Chirilă,Midfielder,FC Cincinnati,MLS,19,71.0,71.0,0.0,0,0,1.1,10.9,60.0,0,0,1,0,0,0,0,39,0.62,4.23
+cole-mrowka,Cole Mrowka,Midfielder,Columbus Crew,MLS,20,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,1,0,0,39,0.64,2.4
+kalani-kossa-rienzi,Kalani Kossa-Rienzi,Midfielder,Seattle Sounders FC,MLS,24,51.0,48.0,0.0,0,0,63.2,11.64,36.67,0,3,4,5,14,7,1,6,2.24,2.93
+zac-mcgraw,Zac McGraw,Defender,Portland Timbers,MLS,29,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.46,2.55
+damario-mcintosh,Damario McIntosh,Defender,New England Revolution,MLS,19,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.95,0.9
+andrew-baiera,Andrew Baiera,Defender,New York City FC,MLS,19,31.0,31.0,7.5,3,0,0.6,-3.57,35.0,0,0,0,0,1,2,0,37,0.47,2.39
+famara-camara,Famara Camara,Midfielder,Nashville SC,MLS,21,44.0,44.0,2.5,1,0,1.8,8.7,35.0,0,0,0,0,1,0,0,10,,
+sebastian-ramirez-maya,Sebastián Ramírez,Midfielder,Vancouver Whitecaps FC,MLS,20,39.0,41.0,45.0,18,8,19.8,2.91,37.78,0,0,2,0,8,8,0,22,1.39,5.52
+fabian-mrozek,Fabian Mrozek,Goalkeeper,FC Cincinnati,MLS,22,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,,
+marius-omotoye-aiyenero,Marius Aiyenero,Forward,Los Angeles FC,MLS,18,34.0,34.0,2.5,1,0,0.2,-0.7,35.0,0,0,0,0,0,0,0,38,,
+alvaro-ribeiro-de-brito-augusto,Álvaro Augusto,Defender,FC Dallas,MLS,21,35.0,35.0,2.5,1,0,0.0,0.0,35.0,0,0,0,0,2,0,0,38,0.45,1.47
+jordan-adebayo-smith,Jordan Adebayo-Smith,Forward,Minnesota United,MLS,25,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.45,1.49
+braian-oscar-ojeda-rodriguez,Braian Ojeda,Midfielder,Orlando City SC,MLS,26,56.0,48.0,60.0,24,23,50.8,9.92,38.33,1,3,0,2,17,1,0,16,0.39,1.18
+moise-clovis-archange,Clovis Archange,Defender,Orlando City SC,MLS,18,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,14,,
+luis-rivera,Luis Rivera,Defender,Real Salt Lake,MLS,18,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.38,2.76
+reid-fisher,Reid Fisher,Defender,Toronto FC,MLS,22,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,,
+isaac-boehmer,Isaac Boehmer,Goalkeeper,Vancouver Whitecaps FC,MLS,24,32.0,32.0,12.5,5,4,9.6,5.32,27.0,0,0,0,1,2,0,2,35,1.88,5.11
+andy-emanuel-rojas-maroto,Andy Rojas,Forward,New York Red Bulls,MLS,20,39.0,39.0,10.0,4,0,2.3,3.85,35.0,0,0,0,1,3,2,0,34,0.54,0.85
+ariath-deng-piol,Ariath Piol,Forward,Real Salt Lake,MLS,21,40.0,40.0,12.5,5,3,6.3,-0.46,40.0,0,0,1,0,2,4,0,33,0.45,1.31
+riley-lynch,Riley Lynch,Forward,St. Louis City SC,MLS,23,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,11,,
+riley-dalgado,Riley Dalgado,Defender,LA Galaxy,MLS,20,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,33,1.76,3.48
+chris-tamro-mbai-assem,Chris Mbaï Assem,Defender,New England Revolution,MLS,21,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,19,,
+dejuan-jones,DeJuan Jones,Midfielder,San Jose Earthquakes,MLS,29,54.0,54.0,12.5,5,5,12.5,19.32,35.0,0,3,0,1,4,1,2,29,1.0,1.48
+jordan-knight,Jordan Knight,Defender,Nashville SC,MLS,24,43.0,43.0,17.5,7,2,5.2,4.29,38.57,0,0,2,0,3,1,1,33,0.87,1.73
+ruben-messalles,Ruben Messalles,Defender,Real Salt Lake,MLS,23,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,29,,
+zamir-loyo-reynaga,Zamir Loyo Reynaga,Midfielder,Sporting Kansas City ,MLS,15,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,25,,
+shuma-sasaki,Shuma Sasaki,Forward,New England Revolution,MLS,23,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,17,,
+greg-ranjitsingh,Greg Ranjitsingh,Goalkeeper,New York City FC,MLS,33,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,1.13,2.31
+judah-siqueira,Judah Siqueira,Forward,New England Revolution,MLS,17,37.0,37.0,5.0,2,0,2.5,1.65,35.0,0,0,0,0,2,0,0,9,,
+john-selemani,John-Vallery Selemani,Forward,Vancouver Whitecaps FC,MLS,18,50.0,50.0,5.0,2,1,4.1,15.05,35.0,0,0,1,0,2,0,0,36,,
+diego-garcia-murillo,Diego García,Midfielder,FC Dallas,MLS,19,33.0,33.0,5.0,2,0,0.3,-2.4,35.0,0,0,0,0,0,2,0,38,0.53,2.35
+rocco-rios-novo,Rocco Ríos Novo ,Goalkeeper,Inter Miami CF,MLS,24,45.0,49.0,42.5,17,17,38.2,10.34,38.24,0,3,2,0,7,5,0,23,1.44,3.12
+brett-phan,Brett Phan,Midfielder,LA Galaxy,MLS,18,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,9,,
+adisa-ajahni-onifade-de-rosario,Adisa De Rosario,Goalkeeper,Toronto FC,MLS,21,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.46,2.54
+pedro-de-la-vega,Pedro de la Vega,Forward,Seattle Sounders FC,MLS,25,57.0,57.0,10.0,4,3,4.8,9.53,47.5,0,2,0,0,1,1,0,36,1.03,1.41
+rohan-rajagopal,Rohan Rajagopal,Midfielder,San Jose Earthquakes,MLS,19,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,26,1.09,2.47
+caden-glover,Caden Glover,Forward,St. Louis City SC,MLS,19,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.66,4.0
+caleb-swann,Caleb Swann,Midfielder,FC Dallas,MLS,19,35.0,35.0,5.0,2,0,0.2,-0.15,35.0,0,0,0,0,0,2,0,27,0.59,1.79
+dekwon-barrow,Dékwon Barrow,Forward,Toronto FC,MLS,22,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,38,,
+ian-urkidi,Ian Urkidi,Midfielder,Inter Miami CF,MLS,19,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,14,,
+alexander-ernesto-aravena-guzman,Alexander Aravena,Forward,Portland Timbers,MLS,24,40.0,39.0,45.0,18,4,13.4,3.62,35.28,0,0,1,0,11,5,1,22,0.61,1.49
+tyson-charles-pearce,Tyson Pearce,Midfielder,St. Louis City SC,MLS,19,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,2,0,0,38,0.47,3.38
+rudy-camacho,Rudy Camacho,Defender,Columbus Crew,MLS,35,45.0,45.0,55.0,22,20,48.3,9.63,35.45,0,2,2,4,7,5,2,18,0.64,3.6
+mba-richard-mmah-chukwu,Richard Chukwu,Defender,Toronto FC,MLS,18,48.0,48.0,2.5,1,1,3.5,12.78,35.0,0,0,0,0,1,0,0,19,,
+osvald-gabriel-soe,Osvald Søe,Defender,San Diego FC,MLS,20,35.0,35.0,22.5,9,6,16.3,-0.58,35.56,0,0,1,1,4,1,2,24,0.51,1.37
+christian-olivares,Christian Olivares,Goalkeeper,St. Louis City SC,MLS,24,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,1.63,1.5
+kyle-hiebert,Kyle Hiebert,Defender,St. Louis City SC,MLS,29,41.0,41.0,5.0,2,1,3.7,6.06,35.0,0,0,0,0,3,1,0,36,0.77,0.85
+jayden-da,Jayden Da,Forward,New England Revolution,MLS,24,34.0,34.0,2.5,1,0,0.3,-0.8,35.0,0,0,0,0,0,1,0,25,,
+jules-anthony-vilsaint,Jules-Anthony Vilsaint,Forward,Toronto FC,MLS,23,41.0,41.0,17.5,7,2,7.7,2.64,38.57,0,0,2,0,4,5,0,29,0.71,2.62
+christian-alejandro-diaz,Christian Díaz,Defender,Los Angeles FC,MLS,20,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,15,,
+kamran-acito,Kamran Acito,Defender,New York City FC,MLS,22,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,29,0.56,1.69
+thomas-hasal,Thomas Hasal,Goalkeeper,Los Angeles FC,MLS,27,51.0,54.0,12.5,5,5,9.8,6.8,47.0,0,2,0,0,2,1,0,35,1.27,4.21
+oscar-avilez,Oscar Avilez,Forward,DC United,MLS,16,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,25,0.83,2.18
+ricardo-nick-louis,Ricardo Louis,Forward,FC Dallas,MLS,21,33.0,33.0,2.5,1,0,0.6,-1.8,35.0,0,0,0,0,0,1,0,28,0.76,1.78
+talles-magno-bacelar-martins,Talles Magno,Forward,New York City FC,MLS,24,45.0,42.0,52.5,21,5,15.3,2.5,39.76,0,0,4,0,12,5,0,19,0.72,3.5
+charlie-farrar,Charlie Farrar,Goalkeeper,Austin FC,MLS,23,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,12,,
+marcos-alberto-zambrano-delgado,Marcos Zambrano,Forward,New England Revolution,MLS,21,39.0,39.0,20.0,8,3,7.7,0.63,38.13,0,0,1,0,3,4,0,31,1.13,2.99
+chris-rindov,Chris Rindov,Defender,LA Galaxy,MLS,24,38.0,38.0,7.5,3,2,4.2,2.97,35.0,0,0,0,2,0,4,0,34,1.18,3.24
+tommy-mihalic,Tommy Mihalić,Forward,Los Angeles FC,MLS,23,40.0,40.0,2.5,1,0,0.4,5.4,35.0,0,0,0,0,1,0,0,26,2.06,
+jacob-arroyave,Jacob Arroyave,Midfielder,New York City FC,MLS,18,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,1.04,1.29
+mamadou-fall-2001-11-21,Mamadou Fall,Defender,St. Louis City SC,MLS,23,30.0,30.0,7.5,3,0,1.3,-4.86,35.0,0,0,0,0,1,3,0,36,0.9,0.95
+decarlo-anthony-guerra-orellana,DeCarlo Guerra,Midfielder,Los Angeles FC,MLS,18,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,30,,
+maximo-augusto-carrizo-ballesteros,Maximo Carrizo,Midfielder,New York City FC,MLS,18,36.0,36.0,20.0,8,0,2.7,1.03,35.0,0,0,0,0,4,4,0,32,1.01,2.56
+luc-rollet-de-fougerolles,Luc De Fougerolles,Defender,Real Salt Lake,MLS,20,43.0,42.0,60.0,24,14,35.0,5.27,36.25,0,1,5,0,9,10,1,14,0.83,1.94
+charlie-kosakoff,Charlie Kosakoff,Forward,Los Angeles FC,MLS,22,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,5,,
+arif-kovac,Arif Kovac,Forward,Atlanta United,MLS,20,33.0,33.0,2.5,1,0,0.6,-2.5,35.0,0,0,0,0,0,1,0,10,,
+andrew-vincent-rick,Andrew Rick,Goalkeeper,Philadelphia Union,MLS,20,42.0,42.0,22.5,9,8,19.2,3.89,38.33,0,0,2,1,4,1,1,31,4.21,8.0
+micaah-garnette,Micaah Garnette,Forward,Vancouver Whitecaps FC,MLS,23,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,11,,
+mbekezeli-mbokazi,Mbekezeli Mbokazi,Defender,Chicago Fire FC,MLS,21,55.0,55.0,55.0,22,22,48.8,17.77,38.18,1,2,5,3,9,2,1,17,1.37,3.28
+andre-filipe-russo-franco,André Franco,Midfielder,Chicago Fire FC,MLS,28,57.0,57.0,5.0,2,2,4.4,9.6,47.5,0,3,0,0,1,1,0,35,0.94,1.79
+bongokuhle-hlongwane,Bongokuhle Hlongwane,Forward,Minnesota United,MLS,26,38.0,39.0,60.0,24,13,35.4,3.19,36.04,0,0,2,2,13,10,0,13,0.66,1.54
+vicente-garcia,Vicente Garcia,Midfielder,LA Galaxy,MLS,16,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,13,,
+ali-fadal,Ali Fadal,Midfielder,Colorado Rapids,MLS,22,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,40,0.61,1.15
+pierre-lurot,Pierre Lurot,Defender,Sporting Kansas City ,MLS,24,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,23,,
+kevin-gabriel-pierre-jr,Kevin Pierre,Midfielder,New York City FC,MLS,23,42.0,42.0,5.0,2,0,0.6,6.65,35.0,0,0,0,0,2,0,0,27,,
+samsy-keita,Samsy Keita,Goalkeeper,CF Montreal,MLS,17,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,26,,
+nolan-miller,Nolan Miller,Defender,Orlando City SC,MLS,22,23.0,23.0,12.5,5,4,11.3,-8.0,31.0,0,0,0,0,1,3,1,24,2.0,1.04
+jeremy-michael-rafanello,Jeremy Rafanello,Midfielder,Philadelphia Union,MLS,26,44.0,44.0,22.5,9,5,12.6,6.43,37.78,0,1,0,2,3,3,0,31,1.2,1.34
+peter-stroud,Peter Stroud,Midfielder,Minnesota United,MLS,24,37.0,37.0,2.5,1,0,0.7,2.4,35.0,0,0,0,1,6,0,0,33,0.47,2.27
+robert-voloder,Robert Voloder,Defender,New York Red Bulls,MLS,25,49.0,49.0,25.0,10,9,28.3,9.06,40.0,0,1,2,4,6,1,1,25,0.48,1.14
